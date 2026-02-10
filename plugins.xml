@@ -4,10 +4,12 @@
   <plugin name="plugin_maitre" version="1.0.0">
     <description>plugin_maitre</description>
     <qgis_minimum_version>3.16</qgis_minimum_version>
+    <file_name>plugin_maitre.zip</file_name>
     <download_url>
       https://raw.githubusercontent.com/IGNF/collaboratif-plugins/main/plugin_maitre.zip
     </download_url>
   </plugin>
 
   
+
 </plugins>
