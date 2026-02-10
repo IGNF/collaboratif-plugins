@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plugins>
+
+  <plugin name="plugin_maitre" version="1.0.0">
+    <description>plugin_maitre</description>
+    <qgis_minimum_version>3.16</qgis_minimum_version>
+    <download_url>
+      https://raw.githubusercontent.com/IGNF/collaboratif-plugins/main/plugin_maitre.zip
+    </download_url>
+  </plugin>
+
+  <plugin name="PluginB" version="2.1.0">
+    <description>Plugin B</description>
+    <qgis_minimum_version>3.22</qgis_minimum_version>
+    <download_url>
+      https://raw.githubusercontent.com/IGNF/collaboratif-plugins/main/(IGN)assistant_list.zip
+    </download_url>
+  </plugin>
+
+</plugins>
