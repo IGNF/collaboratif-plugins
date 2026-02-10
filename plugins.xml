@@ -84,10 +84,18 @@
     <file_name>(IGN)chemin-le-plus-court.zip</file_name>
     <download_url>https://raw.githubusercontent.com/IGNF/collaboratif-plugins/main/(IGN)chemin-le-plus-court.zip</download_url>
   </pyqgis_plugin>
+  <pyqgis_plugin name="(IGN)jeux_attributs" version="0.1">
+    <description>modifications sémantiques.</description>
+    <qgis_minimum_version>3.16</qgis_minimum_version>
+    <qgis_maximum_version>3.99</qgis_maximum_version>
+    <file_name>(IGN)jeux_attributs.zip</file_name>
+    <download_url>https://raw.githubusercontent.com/IGNF/collaboratif-plugins/main/(IGN)jeux_attributs.zip</download_url>
+  </pyqgis_plugin>
 
 
 
 </plugins>
+
 
 
 
