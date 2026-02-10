@@ -7,7 +7,6 @@
     <file_name>plugin_maitre.zip</file_name>
     <download_url>https://raw.githubusercontent.com/IGNF/collaboratif-plugins/main/plugin_maitre.zip</download_url>
   </pyqgis_plugin>
-
 <pyqgis_plugin name="(IGN)assistant-liste" version="0.1">
     <description>Gestionnaire de listes</description>
     <qgis_minimum_version>3.16</qgis_minimum_version>
@@ -15,7 +14,6 @@
     <file_name>(IGN)assistant-liste.zip</file_name>
     <download_url>https://raw.githubusercontent.com/IGNF/collaboratif-plugins/main/(IGN)assistant-liste.zip</download_url>
   </pyqgis_plugin>
-  
   <pyqgis_plugin name="(IGN)Vues" version="1.2.0">
     <description>Gestionnaire des vues</description>
     <qgis_minimum_version>3.16</qgis_minimum_version>
@@ -23,10 +21,18 @@
     <file_name>(IGN)Vues.zip</file_name>
     <download_url>https://raw.githubusercontent.com/IGNF/collaboratif-plugins/main/(IGN)Vues.zip</download_url>
   </pyqgis_plugin>
+  <pyqgis_plugin name="(IGN)altibonne" version="0.1">
+    <description>Visualisation d'un profil</description>
+    <qgis_minimum_version>3.16</qgis_minimum_version>
+    <qgis_maximum_version>3.99</qgis_maximum_version>
+    <file_name>(IGN)altibonne.zip</file_name>
+    <download_url>https://raw.githubusercontent.com/IGNF/collaboratif-plugins/main/(IGN)altibonne.zip</download_url>
+  </pyqgis_plugin>
 
 
   
 </plugins>
+
 
 
 
