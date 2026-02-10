@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <plugins>
-  <pyqgis_plugin name="plugin_maitre" version="1.0.0">
+  <pyqgis_plugin name="plugin_maitre" version="1.0.1">
     <description>Gestionnaire des plugins IGN</description>
     <qgis_minimum_version>3.16</qgis_minimum_version>
     <qgis_maximum_version>3.99</qgis_maximum_version>
@@ -8,7 +8,7 @@
     <download_url>https://raw.githubusercontent.com/IGNF/collaboratif-plugins/main/plugin_maitre.zip</download_url>
   </pyqgis_plugin>
 
-<pyqgis_plugin name="(IGN)assistant-liste" version="1.0.0">
+<pyqgis_plugin name="(IGN)assistant-liste" version="0.1">
     <description>Gestionnaire de listes</description>
     <qgis_minimum_version>3.16</qgis_minimum_version>
     <qgis_maximum_version>3.99</qgis_maximum_version>
@@ -16,7 +16,7 @@
     <download_url>https://raw.githubusercontent.com/IGNF/collaboratif-plugins/main/(IGN)assistant-liste.zip</download_url>
   </pyqgis_plugin>
   
-  <pyqgis_plugin name="(IGN)Vues" version="1.0.0">
+  <pyqgis_plugin name="(IGN)Vues" version="1.2.0">
     <description>Gestionnaire des vues</description>
     <qgis_minimum_version>3.16</qgis_minimum_version>
     <qgis_maximum_version>3.99</qgis_maximum_version>
@@ -27,6 +27,7 @@
 
   
 </plugins>
+
 
 
 
