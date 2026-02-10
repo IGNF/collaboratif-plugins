@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <plugins>
 
+  <!-- Plugin maître -->
   <plugin name="plugin_maitre" version="1.0.0">
     <description>plugin_maitre</description>
     <qgis_minimum_version>3.16</qgis_minimum_version>
@@ -10,7 +11,27 @@
     </download_url>
   </plugin>
 
-  
+
+  <!-- Plugin assistant-liste (nom conservé tel quel) -->
+  <plugin name="IGN_assistant_liste" version="1.0.0">
+    <description>Assistant liste</description>
+    <qgis_minimum_version>3.16</qgis_minimum_version>
+    <file_name>(IGN)assistant-liste.zip</file_name>
+    <download_url>
+      https://github.com/IGNF/collaboratif-plugins/raw/main/(IGN)assistant-liste.zip?raw=1
+    </download_url>
+  </plugin>
+
+
+  <!-- Plugin zup (nom conservé tel quel) -->
+  <plugin name="IGN_zup" version="1.0.0">
+    <description>Plugin ZUP</description>
+    <qgis_minimum_version>3.16</qgis_minimum_version>
+    <file_name>(IGN)zup.zip</file_name>
+    <download_url>
+      https://github.com/IGNF/collaboratif-plugins/raw/main/(IGN)zup.zip?raw=1
+    </download_url>
+  </plugin>
 
 </plugins>
 
