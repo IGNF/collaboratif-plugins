@@ -6,10 +6,11 @@
     <qgis_minimum_version>3.16</qgis_minimum_version>
     <file_name>plugin_maitre.zip</file_name>
     <download_url>
-      https://raw.githubusercontent.com/IGNF/collaboratif-plugins/main/plugin_maitre.zip
+      https://github.com/IGNF/collaboratif-plugins/raw/main/plugin_maitre.zip?raw=1
     </download_url>
   </plugin>
 
   
 
 </plugins>
+
