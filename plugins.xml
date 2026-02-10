@@ -77,10 +77,18 @@
     <file_name>(IGN)assistant-route.zip</file_name>
     <download_url>https://raw.githubusercontent.com/IGNF/collaboratif-plugins/main/(IGN)assistant-route.zip</download_url>
   </pyqgis_plugin>
+  <pyqgis_plugin name="(IGN)chemin-le-plus-court" version="1.1.0">
+    <description>Sélection du graphe du chemin le plus court sur tout objets linéaires.</description>
+    <qgis_minimum_version>3.16</qgis_minimum_version>
+    <qgis_maximum_version>3.99</qgis_maximum_version>
+    <file_name>(IGN)chemin-le-plus-court.zip</file_name>
+    <download_url>https://raw.githubusercontent.com/IGNF/collaboratif-plugins/main/(IGN)chemin-le-plus-court.zip</download_url>
+  </pyqgis_plugin>
 
 
 
 </plugins>
+
 
 
 
