@@ -35,10 +35,18 @@
     <file_name>(IGN)sens_numerisation.zip</file_name>
     <download_url>https://raw.githubusercontent.com/IGNF/collaboratif-plugins/main/(IGN)sens_numerisation.zip</download_url>
   </pyqgis_plugin>
+  <pyqgis_plugin name="(IGN)assistant-complexe" version="1.1.1">
+    <description>Gestionnaire des complexes</description>
+    <qgis_minimum_version>3.16</qgis_minimum_version>
+    <qgis_maximum_version>3.99</qgis_maximum_version>
+    <file_name>(IGN)assistant-complexe.zip</file_name>
+    <download_url>https://raw.githubusercontent.com/IGNF/collaboratif-plugins/main/(IGN)assistant-complexe.zip</download_url>
+  </pyqgis_plugin>
 
 
   
 </plugins>
+
 
 
 
