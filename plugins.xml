@@ -8,7 +8,7 @@
     <download_url>https://raw.githubusercontent.com/IGNF/collaboratif-plugins/main/plugin_maitre.zip</download_url>
   </pyqgis_plugin>
   <pyqgis_plugin name="multi_select" version="2.0.0">
-    <description>Permet la sélection multi layer</description>
+    <description>Permet la sélection multi layers</description>
     <qgis_minimum_version>3.16</qgis_minimum_version>
     <qgis_maximum_version>3.99</qgis_maximum_version>
     <file_name>multi_select.zip</file_name>
@@ -116,6 +116,7 @@
 
 
 </plugins>
+
 
 
 
