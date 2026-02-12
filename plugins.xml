@@ -7,6 +7,13 @@
     <file_name>plugin_maitre.zip</file_name>
     <download_url>https://raw.githubusercontent.com/IGNF/collaboratif-plugins/main/plugin_maitre.zip</download_url>
   </pyqgis_plugin>
+  <pyqgis_plugin name="multi_select" version="2.0.0">
+    <description>Permet la sélection multi layer</description>
+    <qgis_minimum_version>3.16</qgis_minimum_version>
+    <qgis_maximum_version>3.99</qgis_maximum_version>
+    <file_name>multi_select.zip</file_name>
+    <download_url>https://raw.githubusercontent.com/IGNF/collaboratif-plugins/main/multi_select.zip</download_url>
+  </pyqgis_plugin>
 <pyqgis_plugin name="(IGN)assistant-liste" version="0.1">
     <description>Gestionnaire de listes</description>
     <qgis_minimum_version>3.16</qgis_minimum_version>
@@ -109,6 +116,7 @@
 
 
 </plugins>
+
 
 
 
