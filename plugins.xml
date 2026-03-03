@@ -14,7 +14,7 @@
     <file_name>multi_select.zip</file_name>
     <download_url>https://raw.githubusercontent.com/IGNF/collaboratif-plugins/main/multi_select.zip</download_url>
   </pyqgis_plugin>
-<pyqgis_plugin name="(IGN)assistant-liste" version="0.1">
+<pyqgis_plugin name="%28IGN%29assistant-liste" version="0.1">
     <description>Gestionnaire de listes</description>
     <qgis_minimum_version>3.16</qgis_minimum_version>
     <qgis_maximum_version>3.99</qgis_maximum_version>
@@ -116,6 +116,7 @@
 
 
 </plugins>
+
 
 
 
