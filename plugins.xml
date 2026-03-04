@@ -25,6 +25,14 @@
     <download_url>https://github.com/IGNF/objets-preferes-qgis-plugin/releases/download/version_finale/IGN_objets_preferes.zip</download_url>
   </pyqgis_plugin>
 
+  <pyqgis_plugin name="IGN_requetes" version="0.1">
+    <description>gestionnaire de requêtes sql</description>
+    <qgis_minimum_version>3.16</qgis_minimum_version>
+    <qgis_maximum_version>3.99</qgis_maximum_version>
+    <file_name>IIGN_requetes.zip</file_name>
+    <download_url>https://github.com/IGNF/requetes-qgis-plugin/releases/download/version_finale/IGN_requetes.zip</download_url>
+  </pyqgis_plugin>
+
   <pyqgis_plugin name="IGN_assistant-route" version="1.5.0">
     <description>Ce plugin permet une contribution directe sur les données IGN.</description>
     <qgis_minimum_version>3.16</qgis_minimum_version>
@@ -138,6 +146,7 @@
   </pyqgis_plugin>
   
 </plugins>
+
 
 
 
