@@ -6,7 +6,7 @@
     <qgis_minimum_version>3.16</qgis_minimum_version>
     <qgis_maximum_version>3.99</qgis_maximum_version>
     <file_name>plugin_maitre.zip</file_name>
-    <download_url>https://github.com/IGNF/collaboratif-plugins/releases/download/version_finale/plugin_maitre.zip</download_url>
+    <download_url>https://github.com/IGNF/maitre-qgis-plugin/releases/download/version_finale/plugin_maitre.zip</download_url>
   </pyqgis_plugin>
   
   <pyqgis_plugin name="multi_select" version="2.0.0">
@@ -22,7 +22,7 @@
     <qgis_minimum_version>3.16</qgis_minimum_version>
     <qgis_maximum_version>3.99</qgis_maximum_version>
     <file_name>IGN_jeux_attributs_generique.zip</file_name>
-    <download_url>https://github.com/IGNF/collaboratif-plugins/releases/download/version_finale/IGN_jeux_attributs_generique.zip</download_url>
+    <download_url>https://github.com/IGNF/jeux_attribut_generique_plugin_qgis/releases/download/version_finale/IGN_jeux_attributs_generique.zip</download_url>
   </pyqgis_plugin>
 
   <pyqgis_plugin name="IGN_sens_numerisation" version="0.1.0">
@@ -30,7 +30,7 @@
     <qgis_minimum_version>3.16</qgis_minimum_version>
     <qgis_maximum_version>3.99</qgis_maximum_version>
     <file_name>IGN_sens_numerisation.zip</file_name>
-    <download_url>https://github.com/IGNF/collaboratif-plugins/releases/download/version_finale/IGN_sens_numerisation.zip</download_url>
+    <download_url>https://github.com/IGNF/sens_numerisation-qgis-plugin/releases/download/version_finale/IGN_sens_numerisation.zip</download_url>
   </pyqgis_plugin>
 
   <pyqgis_plugin name="IGN_chemin_le_plus_court" version="1.2.0">
@@ -38,7 +38,7 @@
     <qgis_minimum_version>3.16</qgis_minimum_version>
     <qgis_maximum_version>3.99</qgis_maximum_version>
     <file_name>IGN_chemin_le_plus_court.zip</file_name>
-    <download_url>https://github.com/IGNF/collaboratif-plugins/releases/download/version_finale/IGN_chemin_le_plus_court.zip</download_url>
+    <download_url>https://github.com/IGNF/chemin-le-plus-court-qgis-plugin/releases/download/version_finale/IGN_chemin_le_plus_court.zip</download_url>
   </pyqgis_plugin>
 
   <!--
@@ -149,6 +149,7 @@
   -->
   
 </plugins>
+
 
 
 
