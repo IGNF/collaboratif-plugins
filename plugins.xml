@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-
 <plugins>
+  
   <pyqgis_plugin name="IGN_objets_preferes" version="0.1">
     <description>TEST TEST TEST</description>
     <qgis_minimum_version>3.16</qgis_minimum_version>
@@ -9,7 +9,6 @@
     <download_url>https://github.com/OWNER/REPO/releases/download/TAG/IGN_objets_preferes.zip</download_url>
   </pyqgis_plugin>
 
-<plugins>
   <pyqgis_plugin name="plugin_maitre" version="1.4.0">
     <description>Gestionnaire des plugins IGN</description>
     <qgis_minimum_version>3.16</qgis_minimum_version>
@@ -139,6 +138,7 @@
   </pyqgis_plugin>
   
 </plugins>
+
 
 
 
