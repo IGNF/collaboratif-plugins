@@ -33,11 +33,19 @@
   </pyqgis_plugin>
 
   <pyqgis_plugin name="IGN_assistant-hydro-national" version="1.2.0">
-    <description>Ce plugin est un assistant pour la saisie des attributs PE et BCAE</description>
+    <description>Ce plugin est un assistant pour la saisie des attributs hydrographiques</description>
     <qgis_minimum_version>3.16</qgis_minimum_version>
     <qgis_maximum_version>3.99</qgis_maximum_version>
     <file_name>IGN_assistant-hydro-national.zip</file_name>
     <download_url>https://raw.githubusercontent.com/IGNF/collaboratif-plugins/main/IGN_assistant-hydro-national.zip</download_url>
+  </pyqgis_plugin>
+
+  <pyqgis_plugin name="IGN_assistant-hydro-DDT65" version="1.2.0">
+    <description>Ce plugin est un assistant pour la saisie des attributs PE et BCAE</description>
+    <qgis_minimum_version>3.16</qgis_minimum_version>
+    <qgis_maximum_version>3.99</qgis_maximum_version>
+    <file_name>IGN_assistant-hydro-DDT65.zip</file_name>
+    <download_url>https://raw.githubusercontent.com/IGNF/collaboratif-plugins/main/IGN_assistant-hydro-DDT65.zip</download_url>
   </pyqgis_plugin>
   
   <pyqgis_plugin name="IGN_assistant-liste" version="0.1.0">
@@ -105,6 +113,7 @@
   </pyqgis_plugin>
   
 </plugins>
+
 
 
 
