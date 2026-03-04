@@ -7,7 +7,7 @@
     <qgis_minimum_version>3.16</qgis_minimum_version>
     <qgis_maximum_version>3.99</qgis_maximum_version>
     <file_name>IGN_objets_preferes.zip</file_name>
-    <download_url>https://github.com/IGNF/objets-preferes-qgis-plugin/releases/download/version3/IGN_objets_preferes.zip</download_url>
+    <download_url>https://github.com/IGNF/objets-preferes-qgis-plugin/releases/download/version6/IGN_objets_preferes.zip</download_url>
   </pyqgis_plugin>
   
 
@@ -140,6 +140,7 @@
   </pyqgis_plugin>
   
 </plugins>
+
 
 
 
