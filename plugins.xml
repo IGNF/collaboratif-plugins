@@ -15,6 +15,14 @@
     <file_name>multi_select.zip</file_name>
     <download_url>https://raw.githubusercontent.com/IGNF/collaboratif-plugins/main/multi_select.zip</download_url>
   </pyqgis_plugin>
+
+  <pyqgis_plugin name="IGN_assistant-route" version="1.5.0">
+    <description>Ce plugin permet une contribution directe sur les données IGN.</description>
+    <qgis_minimum_version>3.16</qgis_minimum_version>
+    <qgis_maximum_version>3.99</qgis_maximum_version>
+    <file_name>IGN_assistant-route.zip</file_name>
+    <download_url>https://raw.githubusercontent.com/IGNF/collaboratif-plugins/main/IGN_assistant-route.zip</download_url>
+  </pyqgis_plugin>
   
   <pyqgis_plugin name="IGN_assistant-liste" version="0.1.0">
     <description>Gestionnaire de listes</description>
@@ -89,6 +97,7 @@
   </pyqgis_plugin>
   
 </plugins>
+
 
 
 
