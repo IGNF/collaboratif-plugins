@@ -31,6 +31,14 @@
     <file_name>IGN_Vues.zip</file_name>
     <download_url>https://raw.githubusercontent.com/IGNF/collaboratif-plugins/main/IGN_Vues.zip</download_url>
   </pyqgis_plugin>
+
+  <pyqgis_plugin name="IGN_VueZ" version="0.3.0">
+    <description>Gestionnaire des vues</description>
+    <qgis_minimum_version>3.16</qgis_minimum_version>
+    <qgis_maximum_version>3.99</qgis_maximum_version>
+    <file_name>IGN_VueZ.zip</file_name>
+    <download_url>https://raw.githubusercontent.com/IGNF/collaboratif-plugins/main/IGN_VueZ.zip</download_url>
+  </pyqgis_plugin>
   
   <pyqgis_plugin name="IGN_altibonne" version="0.3.0">
     <description>Visualisation d'un profil</description>
@@ -65,6 +73,7 @@
   </pyqgis_plugin>
   
 </plugins>
+
 
 
 
