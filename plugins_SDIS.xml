@@ -33,8 +33,9 @@
     <file_name>IGN_assistant-odonyme.zip</file_name>
     <download_url>https://github.com/IGNF/assistant-odonyme-qgis-plugin/releases/download/version_finale/IGN_assistant-odonyme.zip</download_url>
   </pyqgis_plugin>
+  -->
 
-  
+  <!--
   <pyqgis_plugin name="IGN_assistant-complexe" version="1.2.0">
     <description>Permet l'ajout , suppression d'entités dans un complexe</description>
     <qgis_minimum_version>3.16</qgis_minimum_version>
@@ -158,6 +159,7 @@
   -->
   
 </plugins>
+
 
 
 
