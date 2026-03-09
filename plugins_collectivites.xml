@@ -38,7 +38,7 @@
   </pyqgis_plugin>
   
 
-  
+  <!--
   <pyqgis_plugin name="IGN_assistant-complexe" version="1.2.0">
     <description>Permet l'ajout , suppression d'entités dans un complexe</description>
     <qgis_minimum_version>3.16</qgis_minimum_version>
@@ -46,8 +46,9 @@
     <file_name>IGN_assistant-complexe.zip</file_name>
     <download_url>https://github.com/IGNF/assistant-complexe-qgis-plugin/releases/download/version_finale/IGN_assistant-complexe.zip</download_url>
   </pyqgis_plugin>
+  -->
   
-
+  <!--
   <pyqgis_plugin name="IGN_assistant-dfci" version="1.2.0">
     <description>Assistant de saisie DFCI</description>
     <qgis_minimum_version>3.16</qgis_minimum_version>
@@ -55,6 +56,7 @@
     <file_name>IGN_assistant-dfci.zip</file_name>
     <download_url>https://github.com/IGNF/assistant-dfci-qgis-plugin/releases/download/version_finale/IGN_assistant-dfci.zip</download_url>
   </pyqgis_plugin>
+  -->
 
   <!--
   <pyqgis_plugin name="IGN_assistant-hydro-national" version="1.2.0">
@@ -162,6 +164,7 @@
   -->
   
 </plugins>
+
 
 
 
