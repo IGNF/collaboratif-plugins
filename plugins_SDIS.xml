@@ -29,7 +29,7 @@
   </pyqgis_plugin>
 
   
-  <pyqgis_plugin name="IGN_assistant-odonyme" version="1.3.0">
+  <pyqgis_plugin name="IGN_assistant-odonyme" version="1.4.0">
     <description>Plugin de renommage des noms de rues droite et/ou gauche.</description>
     <qgis_minimum_version>3.16</qgis_minimum_version>
     <qgis_maximum_version>3.99</qgis_maximum_version>
@@ -162,6 +162,7 @@
   -->
   
 </plugins>
+
 
 
 
