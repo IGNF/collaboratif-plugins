@@ -110,7 +110,7 @@
   </pyqgis_plugin>
   -->
 
-  <pyqgis_plugin name="IGN_Vues" version="1.4.0">
+  <pyqgis_plugin name="IGN_Vues" version="1.4.1">
     <description>Gestionnaire des vues</description>
     <qgis_minimum_version>3.16</qgis_minimum_version>
     <qgis_maximum_version>3.99</qgis_maximum_version>
