@@ -2,7 +2,7 @@
 <plugins>
 
   <pyqgis_plugin name="plugin_maitre" version="1.4.0">
-    <description>Gestionnaire des plugins IGN</description>
+    <description>Centralise et intègre les plugins IGN dans un menu et barres d'outils personnalisables pour un accès simplifié.</description>
     <qgis_minimum_version>3.16</qgis_minimum_version>
     <qgis_maximum_version>3.99</qgis_maximum_version>
     <file_name>plugin_maitre.zip</file_name>
