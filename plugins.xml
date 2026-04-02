@@ -3,8 +3,7 @@
 
   <pyqgis_plugin name="plugin_maitre" version="1.4.0">
     <description>Centralise et intègre les plugins IGN dans un menu et barres d'outils personnalisables pour un accès simplifié.</description>
-    <changelog>Compatiblie QGIS3 et QGIS4.</changelog>
-    <file_name>plugin_maitre.zip</file_name>
+    <changelog>Compatible QGIS3 et QGIS4.</changelog>
     <download_url>https://github.com/IGNF/maitre-qgis-plugin/releases/download/version_finale/plugin_maitre.zip</download_url>
   </pyqgis_plugin>
   
@@ -76,7 +75,7 @@
 
   <pyqgis_plugin name="IGN_Vues" version="1.4.1">
     <description>Gestionnaire des vues</description>
-    <changelog>Compatiblie QGIS3 et QGIS4.</changelog>
+    <changelog>Compatible QGIS3 et QGIS4.</changelog>
     <file_name>IGN_Vues.zip</file_name>
     <download_url>https://github.com/IGNF/vues-qgis-plugin/releases/download/version_finale/IGN_Vues.zip</download_url>
   </pyqgis_plugin>
