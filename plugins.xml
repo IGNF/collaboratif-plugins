@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <plugins>
-
+  
+<pyqgis_plugin name="PluginHub_Installer" version="0.3">
+    <description>Installateur de plugins</description>
+    <changelog></changelog>
+    <download_url>https://github.com/IGNF/collaboratif-plugins/releases/download/version_finale/PluginHub_Installer.zip</download_url>
+  </pyqgis_plugin>
+  
   <pyqgis_plugin name="plugin_maitre" version="1.4.0">
     <description>Centralise et intègre les plugins IGN dans un menu et barres d'outils personnalisables pour un accès simplifié.</description>
     <changelog>Compatible QGIS3 et QGIS4.</changelog>
     <download_url>https://github.com/IGNF/maitre-qgis-plugin/releases/download/version_finale/plugin_maitre.zip</download_url>
   </pyqgis_plugin>
 
-  <pyqgis_plugin name="PluginHub_Installer" version="0.3">
-    <description>Installateur de plugins</description>
-    <changelog></changelog>
-    <download_url>https://github.com/IGNF/collaboratif-plugins/releases/download/version_finale/PluginHub_Installer.zip</download_url>
-  </pyqgis_plugin>
-  
   <pyqgis_plugin name="multi_select" version="2.0.0">
     <description>Permet la sélection multi layers</description>
     <download_url>https://raw.githubusercontent.com/IGNF/collaboratif-plugins/main/multi_select.zip</download_url>
