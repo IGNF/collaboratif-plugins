@@ -1,6 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <plugins>
 
+  <pyqgis_plugin name="SDIS_PluginHub_Installer" version="0.3">
+    <description>Installateur de plugins</description>
+    <changelog></changelog>
+    <download_url>https://github.com/IGNF/collaboratif-plugins/releases/download/version_finale/SDIS_PluginHub_Installer.zip</download_url>
+  </pyqgis_plugin>
+
   <pyqgis_plugin name="plugin_maitre" version="1.4.0">
     <description>Centralise et intègre les plugins IGN dans un menu et barres d'outils personnalisables pour un accès simplifié.</description>
     <changelog></changelog>
