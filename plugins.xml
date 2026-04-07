@@ -89,12 +89,12 @@
     <download_url>https://github.com/IGNF/chemin-le-plus-court-qgis-plugin/releases/download/version_finale/IGN_chemin_le_plus_court.zip</download_url>
   </pyqgis_plugin>
 
-  <!--
+  
   <pyqgis_plugin name="IGN_objets_preferes" version="0.1">
-    <description>TEST TEST TEST TEST</description>
+    <description>Gestion du type de l'entité à la création</description>
     <download_url>https://github.com/IGNF/objets-preferes-qgis-plugin/releases/download/version_finale/IGN_objets_preferes.zip</download_url>
   </pyqgis_plugin>
-  
+  <!--
   <pyqgis_plugin name="IGN_requetes" version="0.1">
     <description>gestionnaire de requêtes sql</description>
     <download_url>https://github.com/IGNF/requetes-qgis-plugin/releases/download/version_finale/IGN_requetes.zip</download_url>
