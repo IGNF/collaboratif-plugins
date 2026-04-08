@@ -92,7 +92,7 @@
   </pyqgis_plugin>
   -->
 
-  <pyqgis_plugin name="IGN_Vues" version="1.4.1">
+  <pyqgis_plugin name="IGN_Vues" version="1.4.2">
     <description>Gestionnaire des vues</description>
     <changelog>Compatible QGIS3 et QGIS4.</changelog>
     <download_url>https://github.com/IGNF/vues-qgis-plugin/releases/download/version_finale/IGN_Vues.zip</download_url>
