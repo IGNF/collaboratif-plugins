@@ -31,9 +31,9 @@
     <download_url>https://github.com/IGNF/vues-qgis-plugin/releases/download/version_finale/IGN_Vues.zip</download_url>
   </pyqgis_plugin>
 
-  <pyqgis_plugin name="IGN_VueZ" version="0.3.0">
+  <pyqgis_plugin name="IGN_VueZ" version="0.3.1">
     <description>Visualisation des z des entités</description>
-    <changelog></changelog>
+    <changelog>Compatible QGIS3 et QGIS4.</changelog>
     <download_url>https://github.com/IGNF/vueZ-qgis-plugin/releases/download/version_finale/IGN_VueZ.zip</download_url>
   </pyqgis_plugin>
 
