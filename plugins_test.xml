@@ -4,7 +4,7 @@
 <pyqgis_plugin name="PluginHub_Installer" version="0.99">
     <description>Installateur de plugins</description>
     <changelog></changelog>
-    <download_url>https://github.com/IGNF/collaboratif-plugins/releases/download/version_finale_all/PluginHub_Installer.zip</download_url>
+    <download_url>https://github.com/IGNF/collaboratif-plugins/releases/download/version_finale_test/TEST_PluginHub_Installer.zip</download_url>
   </pyqgis_plugin>
 
   <pyqgis_plugin name="update" version="0.1">
