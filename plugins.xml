@@ -91,9 +91,9 @@
     <download_url>https://github.com/IGNF/assistant-odonyme-qgis-plugin/releases/download/version_finale/IGN_assistant-odonyme.zip</download_url>
   </pyqgis_plugin>
 
-  <pyqgis_plugin name="IGN_assistant-complexe" version="1.2.0">
+  <pyqgis_plugin name="IGN_assistant-complexe" version="1.2.1">
     <description>Aide à la saisie des routes numérotées</description>
-    <changelog></changelog>
+    <changelog>Compatible QGIS4 , suppr de la limite des 40 objets modifiés.</changelog>
     <download_url>https://github.com/IGNF/assistant-complexe-qgis-plugin/releases/download/version_finale/IGN_assistant-complexe.zip</download_url>
   </pyqgis_plugin>
 
