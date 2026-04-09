@@ -8,7 +8,7 @@
   </pyqgis_plugin>
 
   <pyqgis_plugin name="update" version="0.1">
-    <description>Installateur de plugins</description>
+    <description>Installateur des maj des pluginIGN_Installer</description>
     <changelog></changelog>
     <download_url>https://github.com/IGNF/collaboratif-plugins/releases/download/version_finale_update/update.zip</download_url>
   </pyqgis_plugin>
