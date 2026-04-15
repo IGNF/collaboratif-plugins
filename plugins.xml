@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <plugins>
   
-<pyqgis_plugin name="PluginIGN_Installer" version="0.4">
+<pyqgis_plugin name="PluginIGN_Installer" version="0.5">
     <description>Installateur de plugins</description>
     <changelog></changelog>
     <download_url>https://github.com/IGNF/collaboratif-plugins/releases/download/version_finale_all/PluginIGN_Installer.zip</download_url>
