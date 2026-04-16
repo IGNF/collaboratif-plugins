@@ -73,9 +73,9 @@
     <download_url>https://github.com/IGNF/jeux-attributs-qgis-plugin/releases/download/version_finale/IGN_jeux_attributs.zip</download_url>
   </pyqgis_plugin>
 
-  <pyqgis_plugin name="IGN_assistant-route" version="1.5.0">
+  <pyqgis_plugin name="IGN_assistant-route" version="1.6.0">
     <description>Aide à la modification d'attributs routiers.</description>
-    <changelog></changelog>
+    <changelog>Compatible QGIS4 , edition largeur de chaussée sur chemin et route empierrées</changelog>
     <download_url>https://github.com/IGNF/assistant-route-qgis-plugin/releases/download/version_finale/IGN_assistant-route.zip</download_url>
   </pyqgis_plugin>
 
