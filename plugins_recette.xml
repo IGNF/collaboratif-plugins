@@ -14,7 +14,7 @@
     
   <pyqgis_plugin name="IGN_chemin_le_plus_court" version="1.3.0_recette">
     <description>Sélection de l'itinéraire le plus court entre 2 linéaires.</description>
-    <changelog></changelog>
+    <changelog>Fonctionne sur tout type de layer</changelog>
     <download_url>https://github.com/IGNF/chemin-le-plus-court-qgis-plugin/releases/download/v1.3.0_recette/IGN_chemin_le_plus_court.zip</download_url>
   </pyqgis_plugin>
 
