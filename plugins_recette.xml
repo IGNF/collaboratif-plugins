@@ -6,23 +6,24 @@
     <download_url>https://github.com/IGNF/collaboratif-plugins/releases/download/version_finale_all/PluginIGN_Installer.zip</download_url>
   </pyqgis_plugin>
 
-  <pyqgis_plugin name="plugin_maitre" version="1.7.1">
+    <pyqgis_plugin name="plugin_maitre" version="1.7.1">
     <description>Centralise et intègre les plugins IGN dans un menu et barres d'outils personnalisables pour un accès simplifié.</description>
     <changelog>Ajout de la documentation des plugins dans le menu</changelog>
     <download_url>https://github.com/IGNF/maitre-qgis-plugin/releases/download/version_finale/plugin_maitre.zip</download_url>
   </pyqgis_plugin>
+    
+  <pyqgis_plugin name="IGN_chemin_le_plus_court" version="1.3.0_recette">
+    <description>Sélection de l'itinéraire le plus court entre 2 linéaires.</description>
+    <changelog></changelog>
+    <download_url>https://github.com/IGNF/chemin-le-plus-court-qgis-plugin/releases/download/v1.3.0_recette/IGN_chemin_le_plus_court.zip</download_url>
+  </pyqgis_plugin>
+
 
   <!--
   <pyqgis_plugin name="multi_select" version="2.0.0">
     <description>Permet la sélection multi layers</description>
     <changelog></changelog>
     <download_url>https://raw.githubusercontent.com/IGNF/collaboratif-plugins/main/multi_select.zip</download_url>
-  </pyqgis_plugin>
-
-  <pyqgis_plugin name="IGN_chemin_le_plus_court" version="1.2.0">
-    <description>Sélection de l'itinéraire le plus court entre 2 linéaires.</description>
-    <changelog></changelog>
-    <download_url>https://github.com/IGNF/chemin-le-plus-court-qgis-plugin/releases/download/version_finale/IGN_chemin_le_plus_court.zip</download_url>
   </pyqgis_plugin>
 
   <pyqgis_plugin name="IGN_Vues" version="1.4.2">
