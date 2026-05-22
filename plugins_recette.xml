@@ -29,6 +29,12 @@
     <changelog></changelog>
     <download_url>https://github.com/IGNF/sens_numerisation-qgis-plugin/releases/download/v0.1.0_recette/IGN_sens_numerisation.zip</download_url>
   </pyqgis_plugin>
+
+  <pyqgis_plugin name="IGN_boite_outils" version="0.1.0_recette">
+    <description>Aide à la modification d'attributs routiers.</description>
+    <changelog></changelog>
+    <download_url>https://github.com/IGNF/boite_outils-qgis-plugin/releases/download/v0.1.0_recette/IGN_boite_outils.zip</download_url>
+  </pyqgis_plugin>
     
   <pyqgis_plugin name="IGN_assistant-liste" version="0.2.0_recette">
     <description>Gestionnaire de listes</description>
