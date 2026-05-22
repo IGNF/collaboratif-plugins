@@ -17,6 +17,12 @@
     <changelog>Fonctionne sur tout type de layer</changelog>
     <download_url>https://github.com/IGNF/chemin-le-plus-court-qgis-plugin/releases/download/v1.3.0_recette/IGN_chemin_le_plus_court.zip</download_url>
   </pyqgis_plugin>
+
+  <pyqgis_plugin name="IGN_Vues" version="1.4.2_recette">
+    <description>Gestionnaire des vues</description>
+    <changelog>Compatible QGIS3 et QGIS4.</changelog>
+    <download_url>https://github.com/IGNF/vues-qgis-plugin/releases/download/v1.4.2_recette/IGN_Vues.zip</download_url>
+  </pyqgis_plugin>
     
   <pyqgis_plugin name="IGN_assistant-route" version="1.6.0_recette">
     <description>Aide à la modification d'attributs routiers.</description>
@@ -30,12 +36,6 @@
     <description>Permet la sélection multi layers</description>
     <changelog></changelog>
     <download_url>https://raw.githubusercontent.com/IGNF/collaboratif-plugins/main/multi_select.zip</download_url>
-  </pyqgis_plugin>
-
-  <pyqgis_plugin name="IGN_Vues" version="1.4.2">
-    <description>Gestionnaire des vues</description>
-    <changelog>Compatible QGIS3 et QGIS4.</changelog>
-    <download_url>https://github.com/IGNF/vues-qgis-plugin/releases/download/version_finale/IGN_Vues.zip</download_url>
   </pyqgis_plugin>
 
   <pyqgis_plugin name="IGN_VueZ" version="0.3.1">
