@@ -3,7 +3,7 @@
 <pyqgis_plugin name="Recette_PluginIGN_Installer" version="0.6">
     <description>Installateur de plugins</description>
     <changelog></changelog>
-    <download_url>https://github.com/IGNF/collaboratif-plugins/releases/download/version_finale_all/Recette_PluginIGN_Installer.zip</download_url>
+    <download_url>https://github.com/IGNF/collaboratif-plugins/releases/download/version_finale_recette/Recette_PluginIGN_Installer.zip</download_url>
   </pyqgis_plugin>
 
     <pyqgis_plugin name="plugin_maitre" version="1.7.1">
