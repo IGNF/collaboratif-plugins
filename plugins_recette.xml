@@ -24,6 +24,12 @@
     <download_url>https://github.com/IGNF/vues-qgis-plugin/releases/download/v1.4.2_recette/IGN_Vues.zip</download_url>
   </pyqgis_plugin>
     
+  <pyqgis_plugin name="IGN_sens_numerisation" version="0.1.0_recette">
+    <description>Affichage des sens de numérisation</description>
+    <changelog></changelog>
+    <download_url>https://github.com/IGNF/sens_numerisation-qgis-plugin/releases/download/v0.1.0_recette/IGN_sens_numerisation.zip</download_url>
+  </pyqgis_plugin>
+    
   <pyqgis_plugin name="IGN_assistant-liste" version="0.2.0_recette">
     <description>Gestionnaire de listes</description>
     <changelog></changelog>
@@ -54,12 +60,6 @@
     <description>Visualisation d'un profil</description>
     <changelog></changelog>
     <download_url>https://github.com/IGNF/altibonne-qgis-plugin/releases/download/version_finale/IGN_altibonne.zip</download_url>
-  </pyqgis_plugin>
-
-  <pyqgis_plugin name="IGN_sens_numerisation" version="0.1.0">
-    <description>Affichage des sens de numérisation</description>
-    <changelog></changelog>
-    <download_url>https://github.com/IGNF/sens_numerisation-qgis-plugin/releases/download/version_finale/IGN_sens_numerisation.zip</download_url>
   </pyqgis_plugin>
 
   <pyqgis_plugin name="IGN_objets_preferes" version="0.1">
