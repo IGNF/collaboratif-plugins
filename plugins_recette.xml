@@ -26,7 +26,7 @@
     
   <pyqgis_plugin name="IGN_sens_numerisation" version="0.1.0_recette">
     <description>Affichage des sens de numérisation</description>
-    <changelog></changelog>
+    <changelog>modif1\nmodif2</changelog>
     <download_url>https://github.com/IGNF/sens_numerisation-qgis-plugin/releases/download/v0.1.0_recette/IGN_sens_numerisation.zip</download_url>
   </pyqgis_plugin>
 
