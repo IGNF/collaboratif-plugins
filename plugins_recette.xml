@@ -32,7 +32,7 @@
 
   <pyqgis_plugin name="IGN_boite_outils" version="0.1.0_recette">
     <description>Divers assistants.</description>
-    <changelog></changelog>
+    <changelog>Compatible QGIS4</changelog>
     <download_url>https://github.com/IGNF/boite_outils-qgis-plugin/releases/download/v0.1.0_recette/IGN_boite_outils.zip</download_url>
   </pyqgis_plugin>
     
