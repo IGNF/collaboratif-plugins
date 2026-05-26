@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+    <?xml version="1.0" encoding="UTF-8"?>
 <plugins>
 <pyqgis_plugin name="Recette_PluginIGN_Installer" version="0.8">
     <description>Installateur de plugins</description>
@@ -26,7 +26,7 @@
     
   <pyqgis_plugin name="IGN_sens_numerisation" version="0.1.0_recette">
     <description>Affichage des sens de numérisation</description>
-    <changelog></changelog>
+    <changelog>Compatible QGIS4</changelog>
     <download_url>https://github.com/IGNF/sens_numerisation-qgis-plugin/releases/download/v0.1.0_recette/IGN_sens_numerisation.zip</download_url>
   </pyqgis_plugin>
 
