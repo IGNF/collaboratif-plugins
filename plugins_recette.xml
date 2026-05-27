@@ -23,6 +23,12 @@
     <changelog>Compatible QGIS3 et QGIS4.</changelog>
     <download_url>https://github.com/IGNF/vues-qgis-plugin/releases/download/v1.4.2_recette/IGN_Vues.zip</download_url>
   </pyqgis_plugin>
+
+  <pyqgis_plugin name="IGN_VueZ" version="0.3.1_recette">
+    <description>Visualisation des z des entités</description>
+    <changelog>Prise en compte des couches 2D \n Compatible QGIS3 et QGIS4</changelog>
+    <download_url>https://github.com/IGNF/vueZ-qgis-plugin/releases/download/v0.3.1_recette/IGN_VueZ.zip</download_url>
+  </pyqgis_plugin>
     
   <pyqgis_plugin name="IGN_sens_numerisation" version="0.1.0_recette">
     <description>Affichage des sens de numérisation</description>
