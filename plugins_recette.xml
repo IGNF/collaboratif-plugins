@@ -84,6 +84,12 @@
     <download_url>https://github.com/IGNF/altibonne-qgis-plugin/releases/download/v0.3.0_recette/IGN_altibonne.zip</download_url>
   </pyqgis_plugin>
 
+  <pyqgis_plugin name="IGN_assistant-hydro-national" version="1.2.0_recette">
+    <description>Ce plugin est un assistant pour la saisie des attributs hydrographiques</description>
+    <changelog>Compatible QGIS4</changelog>
+    <download_url>https://github.com/IGNF/assistant-hydro-national-qgis-plugin/releases/download/v1.2.0_recette/IGN_assistant-hydro-national.zip</download_url>
+  </pyqgis_plugin>
+
 
   <!--
   <pyqgis_plugin name="multi_select" version="2.0.0">
@@ -103,12 +109,6 @@
     <description>jeux d'attributs générique qui permet la modification sémantique quelque soit le projet chargé.</description>
     <changelog></changelog>
     <download_url>https://github.com/IGNF/jeux-attributs-qgis-plugin/releases/download/version_finale/IGN_jeux_attributs.zip</download_url>
-  </pyqgis_plugin>
-
-  <pyqgis_plugin name="IGN_assistant-hydro-national" version="1.2.0">
-    <description>Ce plugin est un assistant pour la saisie des attributs hydrographiques</description>
-    <changelog></changelog>
-    <download_url>https://github.com/IGNF/assistant-hydro-national-qgis-plugin/releases/download/version_finale/IGN_assistant-hydro-national.zip</download_url>
   </pyqgis_plugin>
 
   <pyqgis_plugin name="IGN_assistant-hydro-DDT65" version="1.2.0">
