@@ -60,10 +60,16 @@
     <download_url>https://github.com/IGNF/assistant-odonyme-qgis-plugin/releases/download/v1.4.0_recette/IGN_assistant-odonyme.zip</download_url>
   </pyqgis_plugin>
 
+  <pyqgis_plugin name="IGN_assistant-dfci" version="1.2.0_recette">
+    <description>Aide à la modification des attributs DFCI</description>
+    <changelog>Compatible QGIS4 \n Correction du bug de valeur de champ NULL</changelog>
+    <download_url>https://github.com/IGNF/assistant-dfci-qgis-plugin/releases/download/v1.2.0_recette/IGN_assistant-dfci.zip</download_url>
+  </pyqgis_plugin>
+
   <pyqgis_plugin name="IGN_jeux_attributs_generique" version="1.4.0_recette">
     <description>Formulaire d'attributs qui permet la modification sémantique quelque soit le projet chargé.</description>
     <changelog></changelog>
-    <download_url>https://github.com/IGNF/jeux_attribut_generique_plugin_qgis/releases/download/v1.4.0_recette/IGN_jeux_attributs_generique.zip</download_url>
+    <download_url>https://gitub.com/IGNF/jeux_attribut_generique_plugin_qgis/releases/download/v1.4.0_recette/IGN_jeux_attributs_generique.zip</download_url>
   </pyqgis_plugin>
 
 
@@ -97,12 +103,6 @@
     <description>Aide à la saisie des routes numérotées</description>
     <changelog>Prise en compte de complexes différents sur des tronçons différents.</changelog>
     <download_url>https://github.com/IGNF/assistant-complexe-qgis-plugin/releases/download/version_finale/IGN_assistant-complexe.zip</download_url>
-  </pyqgis_plugin>
-
-  <pyqgis_plugin name="IGN_assistant-dfci" version="1.2.0">
-    <description>Aide à la modification des attributs DFCI</description>
-    <changelog></changelog>
-    <download_url>https://github.com/IGNF/assistant-dfci-qgis-plugin/releases/download/version_finale/IGN_assistant-dfci.zip</download_url>
   </pyqgis_plugin>
 
   <pyqgis_plugin name="IGN_assistant-hydro-national" version="1.2.0">
