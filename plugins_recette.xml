@@ -74,12 +74,6 @@
     <download_url>https://raw.githubusercontent.com/IGNF/collaboratif-plugins/main/multi_select.zip</download_url>
   </pyqgis_plugin>
 
-  <pyqgis_plugin name="IGN_VueZ" version="0.3.1">
-    <description>Visualisation des z des entités</description>
-    <changelog>Compatible QGIS3 et QGIS4.</changelog>
-    <download_url>https://github.com/IGNF/vueZ-qgis-plugin/releases/download/version_finale/IGN_VueZ.zip</download_url>
-  </pyqgis_plugin>
-
   <pyqgis_plugin name="IGN_altibonne" version="0.3.0">
     <description>Visualisation d'un profil</description>
     <changelog></changelog>
