@@ -75,7 +75,7 @@
   <pyqgis_plugin name="IGN_jeux_attributs_generique" version="1.4.1_recette">
     <description>Formulaire d'attributs qui permet la modification sémantique quelque soit le projet chargé.</description>
     <changelog>Déplacement des boutons par glissé-déposé \n Compatible QGIS4</changelog>
-    <download_url>https://gitub.com/IGNF/jeux_attribut_generique_plugin_qgis/releases/download/v1.4.1_recette/IGN_jeux_attributs_generique.zip</download_url>
+    <download_url>https://github.com/IGNF/jeux_attribut_generique_plugin_qgis/releases/download/v1.4.1_recette/IGN_jeux_attributs_generique.zip</download_url>
   </pyqgis_plugin>
     
   <pyqgis_plugin name="IGN_altibonne" version="0.3.0_recette">
