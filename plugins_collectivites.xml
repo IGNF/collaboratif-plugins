@@ -112,7 +112,7 @@
     <download_url>https://github.com/IGNF/sens_numerisation-qgis-plugin/releases/download/version_finale/IGN_sens_numerisation.zip</download_url>
   </pyqgis_plugin>
 
-  <pyqgis_plugin name="IGN_chemin_le_plus_court" version="1.2.0">
+  <pyqgis_plugin name="IGN_chemin_le_plus_court" version="1.3.0">
     <description>Sélection de l'itinéraire le plus court entre 2 linéaires.</description>
     <changelog></changelog>
     <download_url>https://github.com/IGNF/chemin-le-plus-court-qgis-plugin/releases/download/version_finale/IGN_chemin_le_plus_court.zip</download_url>
