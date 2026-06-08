@@ -62,7 +62,7 @@
 
   <pyqgis_plugin name="IGN_assistant-odonyme" version="1.4.1_recette">
     <description>Aide à la saisie des noms de voies.</description>
-    <changelog>Correction bug sur valeur NULL</changelog>
+    <changelog>Correction bug sur valeur NULL \n Correction bug sur les QVariant</changelog>
     <download_url>https://github.com/IGNF/assistant-odonyme-qgis-plugin/releases/download/v1.4.1_recette/IGN_assistant-odonyme.zip</download_url>
   </pyqgis_plugin>
 
