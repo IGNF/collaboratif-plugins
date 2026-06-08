@@ -60,10 +60,10 @@
     <download_url>https://github.com/IGNF/assistant-route-qgis-plugin/releases/download/v1.7.0_recette/IGN_assistant-route.zip</download_url>
   </pyqgis_plugin>
 
-  <pyqgis_plugin name="IGN_assistant-odonyme" version="1.4.0_recette">
+  <pyqgis_plugin name="IGN_assistant-odonyme" version="1.4.1_recette">
     <description>Aide à la saisie des noms de voies.</description>
     <changelog>Correction bug sur valeur NULL</changelog>
-    <download_url>https://github.com/IGNF/assistant-odonyme-qgis-plugin/releases/download/v1.4.0_recette/IGN_assistant-odonyme.zip</download_url>
+    <download_url>https://github.com/IGNF/assistant-odonyme-qgis-plugin/releases/download/v1.4.1_recette/IGN_assistant-odonyme.zip</download_url>
   </pyqgis_plugin>
 
   <pyqgis_plugin name="IGN_assistant-dfci" version="1.2.0_recette">
