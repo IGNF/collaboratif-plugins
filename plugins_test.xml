@@ -7,9 +7,9 @@
     <download_url>https://github.com/IGNF/collaboratif-plugins/releases/download/version_finale_test/TEST_PluginIGN_Installer.zip</download_url>
   </pyqgis_plugin>
   
-  <pyqgis_plugin name="plugin_maitre" version="1.7.1">
+  <pyqgis_plugin name="plugin_maitre" version="1.7.2">
     <description>Centralise et intègre les plugins IGN dans un menu et barres d'outils personnalisables pour un accès simplifié.</description>
-    <changelog>Ajout de la documentation des plugins dans le menu</changelog>
+    <changelog>Detection des mises à jour des plugins IGN \n Ajout de la documentation des plugins dans le menu</changelog>
     <download_url>https://github.com/IGNF/maitre-qgis-plugin/releases/download/version_finale/plugin_maitre.zip</download_url>
   </pyqgis_plugin>
 
