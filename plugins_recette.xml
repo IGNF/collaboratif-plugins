@@ -41,6 +41,12 @@
     <changelog>Compatible QGIS4</changelog>
     <download_url>https://github.com/IGNF/boite_outils-qgis-plugin/releases/download/v0.1.0_recette/IGN_boite_outils.zip</download_url>
   </pyqgis_plugin>
+
+  <pyqgis_plugin name="IGN_objets_preferes" version="0.1">
+    <description>Gestion du type de l'entité à la création</description>
+    <changelog></changelog>
+    <download_url>https://github.com/IGNF/objets-preferes-qgis-plugin/releases/download/v0.1.0_recette/IGN_objets_preferes.zip</download_url>
+  </pyqgis_plugin>
     
   <pyqgis_plugin name="IGN_assistant-liste" version="0.2.0_recette">
     <description>Gestionnaire de listes</description>
@@ -98,11 +104,6 @@
     <download_url>https://raw.githubusercontent.com/IGNF/collaboratif-plugins/main/multi_select.zip</download_url>
   </pyqgis_plugin>
 
-  <pyqgis_plugin name="IGN_objets_preferes" version="0.1">
-    <description>Gestion du type de l'entité à la création</description>
-    <changelog></changelog>
-    <download_url>https://github.com/IGNF/objets-preferes-qgis-plugin/releases/download/version_finale/IGN_objets_preferes.zip</download_url>
-  </pyqgis_plugin>
 
 
   <pyqgis_plugin name="IGN_jeux_attributs" version="0.2.0">
