@@ -97,9 +97,9 @@
     <download_url>https://github.com/IGNF/assistant-dfci-qgis-plugin/releases/download/version_finale/IGN_assistant-dfci.zip</download_url>
   </pyqgis_plugin>
 
-  <pyqgis_plugin name="IGN_assistant-hydro-national" version="1.2.0">
+  <pyqgis_plugin name="IGN_assistant-hydro-national" version="1.2.1">
     <description>Ce plugin est un assistant pour la saisie des attributs hydrographiques</description>
-    <changelog></changelog>
+    <changelog>Compatible QGIS4</changelog>
     <download_url>https://github.com/IGNF/assistant-hydro-national-qgis-plugin/releases/download/version_finale/IGN_assistant-hydro-national.zip</download_url>
   </pyqgis_plugin>
 
