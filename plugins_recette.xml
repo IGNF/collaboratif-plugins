@@ -30,10 +30,10 @@
     <download_url>https://github.com/IGNF/vueZ-qgis-plugin/releases/download/v0.3.1_recette/IGN_VueZ.zip</download_url>
   </pyqgis_plugin>
     
-  <pyqgis_plugin name="IGN_sens_numerisation" version="0.4.0_recette">
+  <pyqgis_plugin name="IGN_sens_numerisation" version="0.4.0">
     <description>Affichage des sens de numérisation</description>
     <changelog>Possibilité d'afficher le sens sur la sélection \n Compatible QGIS4 \n Doc accessible dans le menu IGN</changelog>
-    <download_url>https://github.com/IGNF/sens_numerisation-qgis-plugin/releases/download/v0.4.0_recette/IGN_sens_numerisation.zip</download_url>
+    <download_url>https://github.com/IGNF/sens_numerisation-qgis-plugin/releases/download/version_0.4.0/IGN_sens_numerisation.zip</download_url>
   </pyqgis_plugin>
 
   <pyqgis_plugin name="IGN_boite_outils" version="0.1.0_recette">
