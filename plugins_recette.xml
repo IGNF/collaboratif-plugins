@@ -54,10 +54,10 @@
     <download_url>https://github.com/IGNF/assistant-liste-qgis-plugin/releases/download/v0.2.0_recette/IGN_assistant-liste.zip</download_url>
   </pyqgis_plugin>
     
-  <pyqgis_plugin name="IGN_assistant-route" version="1.7.0_recette">
+  <pyqgis_plugin name="IGN_assistant-route" version="1.7.0">
     <description>Aide à la modification d'attributs routiers.</description>
     <changelog>possibilité de garder la largeur de chaussée sur les chemins et routes empierrées \n Compatible QGIS4</changelog>
-    <download_url>https://github.com/IGNF/assistant-route-qgis-plugin/releases/download/v1.7.0_recette/IGN_assistant-route.zip</download_url>
+    <download_url>https://github.com/IGNF/assistant-route-qgis-plugin/releases/download/version_1.7.0/IGN_assistant-route.zip</download_url>
   </pyqgis_plugin>
 
   <pyqgis_plugin name="IGN_assistant-odonyme" version="1.4.1_recette">
