@@ -106,9 +106,9 @@
   </pyqgis_plugin>
   -->
 
-  <pyqgis_plugin name="IGN_sens_numerisation" version="0.1.0">
+  <pyqgis_plugin name="IGN_sens_numerisation" version="0.4.0">
     <description>Affichage des sens de numérisation</description>
-    <changelog></changelog>
+    <changelog>Possibilité d'afficher le sens uniquement sur la sélection \n Compatible QGIS4 \n Doc accessible dans le menu IGN</changelog>
     <download_url>https://github.com/IGNF/sens_numerisation-qgis-plugin/releases/download/version_finale/IGN_sens_numerisation.zip</download_url>
   </pyqgis_plugin>
 
