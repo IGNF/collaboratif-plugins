@@ -24,10 +24,10 @@
     <download_url>https://github.com/IGNF/vues-qgis-plugin/releases/download/v1.4.3_tag/IGN_Vues.zip</download_url>
   </pyqgis_plugin>
 
-  <pyqgis_plugin name="IGN_VueZ" version="0.3.1_recette">
+  <pyqgis_plugin name="IGN_VueZ" version="0.3.2">
     <description>Visualisation des z des entités</description>
     <changelog>Prise en compte des couches 2D \n Compatible QGIS3 et QGIS4</changelog>
-    <download_url>https://github.com/IGNF/vueZ-qgis-plugin/releases/download/v0.3.1_recette/IGN_VueZ.zip</download_url>
+    <download_url>https://github.com/IGNF/vueZ-qgis-plugin/releases/download/v0.3.2_tag/IGN_VueZ.zip</download_url>
   </pyqgis_plugin>
     
   <pyqgis_plugin name="IGN_sens_numerisation" version="0.4.0">
@@ -45,7 +45,7 @@
   <pyqgis_plugin name="IGN_objets_preferes" version="0.2.0">
     <description>Gestion du type de l'entité à la création</description>
     <changelog></changelog>
-    <download_url>https://github.com/IGNF/objets-preferes-qgis-plugin/releases/download/v0.2.0_recette/IGN_objets_preferes.zip</download_url>
+    <download_url>https://github.com/IGNF/objets-preferes-qgis-plugin/releases/download/v0.2.0_tag/IGN_objets_preferes.zip</download_url>
   </pyqgis_plugin>
     
   <pyqgis_plugin name="IGN_assistant-liste" version="0.2.0">
