@@ -78,7 +78,7 @@
   </pyqgis_plugin>
 
   
-  <pyqgis_plugin name="IGN_assistant-liste" version="0.1.0">
+  <pyqgis_plugin name="IGN_assistant-liste" version="0.2.0">
     <description>Gestionnaire de listes</description>
     <changelog></changelog>
     <download_url>https://github.com/IGNF/assistant-liste-qgis-plugin/releases/download/version_finale/IGN_assistant-liste.zip</download_url>
