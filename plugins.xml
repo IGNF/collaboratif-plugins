@@ -91,7 +91,7 @@
     <download_url>https://github.com/IGNF/assistant-complexe-qgis-plugin/releases/download/version_finale/IGN_assistant-complexe.zip</download_url>
   </pyqgis_plugin>
 
-  <pyqgis_plugin name="IGN_assistant-dfci" version="1.2.0">
+  <pyqgis_plugin name="IGN_assistant-dfci" version="1.2.1">
     <description>Aide à la modification des attributs DFCI</description>
     <changelog></changelog>
     <download_url>https://github.com/IGNF/assistant-dfci-qgis-plugin/releases/download/version_finale/IGN_assistant-dfci.zip</download_url>
