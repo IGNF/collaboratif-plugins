@@ -45,7 +45,7 @@
   -->
   
   <!--
-  <pyqgis_plugin name="IGN_assistant-dfci" version="1.2.0">
+  <pyqgis_plugin name="IGN_assistant-dfci" version="1.2.1">
     <description>Assistant de saisie DFCI</description>
     <changelog></changelog>
     <download_url>https://github.com/IGNF/assistant-dfci-qgis-plugin/releases/download/version_finale/IGN_assistant-dfci.zip</download_url>
