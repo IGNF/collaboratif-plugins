@@ -25,7 +25,7 @@
     <download_url>https://github.com/IGNF/chemin-le-plus-court-qgis-plugin/releases/download/version_finale/IGN_chemin_le_plus_court.zip</download_url>
   </pyqgis_plugin>
 
-  <pyqgis_plugin name="IGN_Vues" version="1.4.4">
+  <pyqgis_plugin name="MultiViewManager" version="1.4.4">
     <description>Gestionnaire des vues</description>
     <changelog>Changement de nom (Vues -> MultiViewManager) \n Ajout export des vues \n Compatible QGIS3 et QGIS4.</changelog>
     <download_url>https://github.com/IGNF/MultiViewManager/releases/download/version_finale/MultiViewManager.zip</download_url>
