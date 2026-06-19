@@ -66,7 +66,7 @@
     <download_url>https://github.com/IGNF/jeux_attribut_generique_plugin_qgis/releases/download/version_finale/IGN_jeux_attributs_generique.zip</download_url>
   </pyqgis_plugin>
 
-  <pyqgis_plugin name="IGN_jeux_attributs" version="0.3.1">
+  <pyqgis_plugin name="IGN_jeux_attributs" version="0.3.2">
     <description>jeux d'attributs générique qui permet la modification sémantique quelque soit le projet chargé.</description>
     <changelog>Prise en compte des champs de type TextEdit \n Déplacement des boutons par glissé-déposé \n Ajout d'un menu contextuel</changelog>
     <download_url>https://github.com/IGNF/jeux-attributs-qgis-plugin/releases/download/version_finale/IGN_jeux_attributs.zip</download_url>
