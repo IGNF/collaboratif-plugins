@@ -84,6 +84,12 @@
     <download_url>https://github.com/IGNF/assistant-liste-qgis-plugin/releases/download/version_finale/IGN_assistant-liste.zip</download_url>
   </pyqgis_plugin>
 
+  <pyqgis_plugin name="IGN_boite_outils" version="0.2.1">
+    <description>Regroupement de différentes fonctionnalités</description>
+    <changelog></changelog>
+    <download_url>https://github.com/IGNF/boite_outils-qgis-plugin/releases/download/version_finale/IGN_boite_outils.zip</download_url>
+  </pyqgis_plugin>
+
   
   <pyqgis_plugin name="IGN_altibonne" version="0.3.1">
     <description>Visualisation d'un profil</description>
