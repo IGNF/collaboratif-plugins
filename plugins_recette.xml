@@ -6,10 +6,10 @@
     <download_url>https://github.com/IGNF/collaboratif-plugins/releases/download/version_finale_recette/Recette_PluginIGN_Installer.zip</download_url>
   </pyqgis_plugin>
 
-  <pyqgis_plugin name="plugin_maitre" version="1.7.2">
+  <pyqgis_plugin name="plugin_maitre" version="1.7.3">
     <description>Centralise et intègre les plugins IGN dans un menu et barres d'outils personnalisables pour un accès simplifié.</description>
-    <changelog>Detection des mises à jour des plugins IGN \n Ajout de la documentation des plugins dans le menu</changelog>
-    <download_url>https://github.com/IGNF/maitre-qgis-plugin/releases/download/v1.7.2_recette/plugin_maitre.zip</download_url>
+    <changelog>Notification et installation des dépendances manquantes \n Detection des mises à jour des plugins IGN \n Ajout de la documentation des plugins dans le menu</changelog>
+    <download_url>https://github.com/IGNF/maitre-qgis-plugin/releases/download/version_finale/plugin_maitre.zip</download_url>
   </pyqgis_plugin>
     
   <pyqgis_plugin name="IGN_chemin_le_plus_court" version="1.3.0">
