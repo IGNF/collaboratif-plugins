@@ -61,9 +61,9 @@
     <download_url>https://github.com/IGNF/objets-preferes-qgis-plugin/releases/download/version_finale/IGN_objets_preferes.zip</download_url>
   </pyqgis_plugin>
 
-  <pyqgis_plugin name="IGN_jeux_attributs_generique" version="1.4.1">
+  <pyqgis_plugin name="IGN_jeux_attributs_generique" version="1.4.2">
     <description>Formulaire d'attributs qui permet la modification sémantique quelque soit le projet chargé.</description>
-    <changelog></changelog>
+    <changelog>Sauvegarde de la position de la fenêtre \n Organisation des widgets par glissé déposé</changelog>
     <download_url>https://github.com/IGNF/jeux_attribut_generique_plugin_qgis/releases/download/version_finale/IGN_jeux_attributs_generique.zip</download_url>
   </pyqgis_plugin>
 
