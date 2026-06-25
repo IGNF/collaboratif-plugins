@@ -49,9 +49,9 @@
     <download_url>https://github.com/IGNF/sens_numerisation-qgis-plugin/releases/download/version_finale/IGN_sens_numerisation.zip</download_url>
   </pyqgis_plugin>
 
-  <pyqgis_plugin name="IGN_assistant-liste" version="0.2.0">
+  <pyqgis_plugin name="IGN_assistant-liste" version="0.3.0">
     <description>Gestionnaire de listes</description>
-    <changelog></changelog>
+    <changelog>Sauvegarde de la position des fenêtres</changelog>
     <download_url>https://github.com/IGNF/assistant-liste-qgis-plugin/releases/download/version_finale/IGN_assistant-liste.zip</download_url>
   </pyqgis_plugin>
 
