@@ -91,9 +91,9 @@
   </pyqgis_plugin>
 
     
-  <pyqgis_plugin name="IGN_altibonne" version="0.3.2">
+  <pyqgis_plugin name="IGN_altibonne" version="0.4.2">
     <description>Visualisation d'un profil</description>
-    <changelog>Sauvegarde de la position de la fenêtre \n Sauvergarde de l'état de la fenêtre \n Diverses ameliorations</changelog>
+    <changelog>Le profil est actif quel que soit le nombre de sélections. \n Sauvegarde de la position de la fenêtre \n Sauvergarde de l'état de la fenêtre \n Diverses ameliorations</changelog>
     <download_url>https://github.com/IGNF/altibonne-qgis-plugin/releases/download/version_finale/IGN_altibonne.zip</download_url>
   </pyqgis_plugin>
 
