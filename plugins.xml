@@ -7,10 +7,10 @@
     <download_url>https://github.com/IGNF/collaboratif-plugins/releases/download/version_finale_all/PluginIGN_Installer.zip</download_url>
   </pyqgis_plugin>
   
-  <pyqgis_plugin name="plugin_maitre" version="1.7.5">
+  <pyqgis_plugin name="PluginsManager" version="1.8.0">
     <description>Centralise et intègre les plugins IGN dans un menu et barres d'outils personnalisables pour un accès simplifié.</description>
-    <changelog>Ajout de la version dans la notification des mises à jour des plugins</changelog>
-    <download_url>https://github.com/IGNF/maitre-qgis-plugin/releases/download/version_finale/plugin_maitre.zip</download_url>
+    <changelog>Changement de nom \n Ajout de la version dans la notification des mises à jour des plugins</changelog>
+    <download_url>https://github.com/IGNF/maitre-qgis-plugin/releases/download/version_finale/PluginsManager.zip</download_url>
   </pyqgis_plugin>
 
   <pyqgis_plugin name="multi_select" version="2.0.0">
