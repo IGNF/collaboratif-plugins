@@ -19,10 +19,10 @@
     <download_url>https://raw.githubusercontent.com/IGNF/collaboratif-plugins/main/multi_select.zip</download_url>
   </pyqgis_plugin>
 
-  <pyqgis_plugin name="IGN_chemin_le_plus_court" version="1.3.0">
+  <pyqgis_plugin name="IGN_ShortestPath" version="1.4.0">
     <description>Sélection de l'itinéraire le plus court entre 2 linéaires.</description>
-    <changelog>Fonctionne sur tout type de layer</changelog>
-    <download_url>https://github.com/IGNF/chemin-le-plus-court-qgis-plugin/releases/download/version_finale/IGN_chemin_le_plus_court.zip</download_url>
+    <changelog>Changement de nom \n Fonctionne sur tout type de layer</changelog>
+    <download_url>https://github.com/IGNF/ShortestPath-qgis-plugin/releases/download/version_finale/IGN_ShortestPath.zip</download_url>
   </pyqgis_plugin>
 
   <pyqgis_plugin name="MultiViewManager" version="1.4.9">
