@@ -107,10 +107,10 @@
   </pyqgis_plugin>
   -->
 
-  <pyqgis_plugin name="IGN_sens_numerisation" version="0.4.1">
+  <pyqgis_plugin name="IGN_DigitizingDirection" version="0.4.2">
     <description>Affichage des sens de numérisation</description>
-    <changelog>Fonctionne sur ligne ou polygone \n Possibilité d'afficher le sens uniquement sur la sélection \n Compatible QGIS4 \n Doc accessible dans le menu IGN</changelog>
-    <download_url>https://github.com/IGNF/sens_numerisation-qgis-plugin/releases/download/version_finale/IGN_sens_numerisation.zip</download_url>
+    <changelog>Changement de nom \n Fonctionne sur ligne ou polygone \n Possibilité d'afficher le sens uniquement sur la sélection \n Compatible QGIS4 \n Doc accessible dans le menu IGN</changelog>
+    <download_url>https://github.com/IGNF/DigitizingDirection-qgis-plugin/releases/download/version_finale/IGN_DigitizingDirection.zip</download_url>
   </pyqgis_plugin>
 
   <pyqgis_plugin name="IGN_ShortestPath" version="1.4.0">
