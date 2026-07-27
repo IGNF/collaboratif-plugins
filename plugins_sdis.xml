@@ -41,9 +41,9 @@
     <download_url>https://github.com/IGNF/assistant-complexe-qgis-plugin/releases/download/version_finale/IGN_assistant-complexe.zip</download_url>
   </pyqgis_plugin>
   
-  <pyqgis_plugin name="IGN_assistant-dfci" version="1.2.2">
+  <pyqgis_plugin name="IGN_assistant-dfci" version="1.2.3">
     <description>Aide à la modification des attributs DFCI</description>
-    <changelog>Sauvegarde de la position de le fenêtre</changelog>
+    <changelog>Ajout de l'attribut "Hors catégorie"</changelog>
     <download_url>https://github.com/IGNF/assistant-dfci-qgis-plugin/releases/download/version_finale/IGN_assistant-dfci.zip</download_url>
   </pyqgis_plugin>
 
