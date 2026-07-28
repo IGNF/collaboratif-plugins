@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <plugins>
 
+  <!--
   <pyqgis_plugin name="SDIS_PluginIGN_Installer" version="1.0">
     <description>Installateur de plugins</description>
     <changelog></changelog>
@@ -13,7 +14,7 @@
     <download_url>https://github.com/IGNF/maitre-qgis-plugin/releases/download/version_finale/PluginsManager.zip</download_url>
   </pyqgis_plugin>
 
-  <!--
+  
   <pyqgis_plugin name="multi_select" version="2.0.0">
     <description>Permet la sélection multi layers</description>
     <changelog></changelog>
