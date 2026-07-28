@@ -1,0 +1,5 @@
+{
+  "Tous" : "plugins.xml" ,
+  "Collectivités" : "plugins_collectivites.xml",
+  "SDIS" : "plugins_sdis.xml"
+}
