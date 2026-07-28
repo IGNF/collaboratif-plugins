@@ -1,5 +1,6 @@
 {
   "Tous" : "plugins.xml" ,
   "Collectivités" : "plugins_collectivites.xml",
-  "SDIS" : "plugins_sdis.xml"
+  "SDIS" : "plugins_sdis.xml",
+  "test de longue ligne blabla bla" : "test_longue_ligne.xml"
 }
