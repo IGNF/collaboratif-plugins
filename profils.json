@@ -1,6 +1,5 @@
 {
   "Tous les plugins IGN disponibles" : "plugins.xml" ,
   "Collectivités" : "plugins_collectivites.xml",
-  "SDIS" : "plugins_sdis.xml",
-  "SDIS TEST" : "plugins_sdis.xml"
+  "SDIS" : "plugins_sdis.xml"
 }
