@@ -31,13 +31,13 @@
     <download_url>https://github.com/IGNF/MultiViewManager/releases/download/version_finale/MultiViewManager.zip</download_url>
   </pyqgis_plugin>
 
-  <pyqgis_plugin name="IGN_VueZ" version="0.3.2">
+  <pyqgis_plugin name="IGN VueZ" version="0.3.2">
     <description>Visualisation des z des entités</description>
     <changelog>Possibilité d'affichage uniquement sur la sélection \n Compatible QGIS3 et QGIS4.</changelog>
     <download_url>https://github.com/IGNF/vueZ-qgis-plugin/releases/download/version_finale/IGN_VueZ.zip</download_url>
   </pyqgis_plugin>
 
-  <pyqgis_plugin name="IGN_altibonne" version="0.4.3">
+  <pyqgis_plugin name="IGN altibonne" version="0.4.3">
     <description>Visualisation d'un profil</description>
     <changelog>Le profil est actif quel que soit le nombre de sélections. \n Sauvegarde de la position de la fenêtre \n Sauvergarde de l'état de la fenêtre \n Diverses ameliorations</changelog>
     <download_url>https://github.com/IGNF/altibonne-qgis-plugin/releases/download/version_finale/IGN_altibonne.zip</download_url>
@@ -49,19 +49,19 @@
     <download_url>https://github.com/IGNF/DigitizingDirection-qgis-plugin/releases/download/version_finale/IGN_DigitizingDirection.zip</download_url>
   </pyqgis_plugin>
 
-  <pyqgis_plugin name="IGN_assistant-liste" version="0.3.1">
+  <pyqgis_plugin name="IGN assistant-liste" version="0.3.1">
     <description>Gestionnaire de listes</description>
     <changelog>Sauvegarde de la position des fenêtres</changelog>
     <download_url>https://github.com/IGNF/assistant-liste-qgis-plugin/releases/download/version_finale/IGN_assistant-liste.zip</download_url>
   </pyqgis_plugin>
 
-  <pyqgis_plugin name="IGN_objets_preferes" version="0.3.0">
+  <pyqgis_plugin name="IGN objets_preferes" version="0.3.0">
     <description>Gestion du type de l'entité à la création</description>
     <changelog>Activation d'une couche et éventuellement passer en mode edition</changelog>
     <download_url>https://github.com/IGNF/objets-preferes-qgis-plugin/releases/download/version_finale/IGN_objets_preferes.zip</download_url>
   </pyqgis_plugin>
 
-  <pyqgis_plugin name="IGN_jeux_attributs_generique" version="1.4.3">
+  <pyqgis_plugin name="IGN jeux_attributs_generique" version="1.4.3">
     <description>Formulaire d'attributs qui permet la modification sémantique quelque soit le projet chargé.</description>
     <changelog>Sauvegarde de la position de la fenêtre \n Organisation des widgets par glissé déposé</changelog>
     <download_url>https://github.com/IGNF/jeux_attribut_generique_plugin_qgis/releases/download/version_finale/IGN_jeux_attributs_generique.zip</download_url>
