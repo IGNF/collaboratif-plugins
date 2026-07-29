@@ -108,13 +108,13 @@
   </pyqgis_plugin>
   -->
 
-  <!--
+  
   <pyqgis_plugin name="IGN DigitizingDirection" version="0.4.2">
     <description>Affichage des sens de numérisation</description>
     <changelog>Changement de nom \n Fonctionne sur ligne ou polygone \n Possibilité d'afficher le sens uniquement sur la sélection \n Compatible QGIS4 \n Doc accessible dans le menu IGN</changelog>
     <download_url>https://github.com/IGNF/DigitizingDirection-qgis-plugin/releases/download/version_finale/IGN_DigitizingDirection.zip</download_url>
   </pyqgis_plugin>
-  -->
+  
 
   <pyqgis_plugin name="IGN ShortestPath" version="1.4.0">
     <description>Sélection de l'itinéraire le plus court entre 2 linéaires.</description>
