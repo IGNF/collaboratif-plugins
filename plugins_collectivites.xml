@@ -23,14 +23,14 @@
   -->
   
 
-  <pyqgis_plugin name="IGN_assistant-route" version="1.7.1">
+  <pyqgis_plugin name="IGN assistant-route" version="1.7.1">
     <description>Aide à la modification d'attributs routiers.</description>
     <changelog>possibilité de garder la largeur de chaussée sur les chemins et routes empierrées \n Compatible QGIS4</changelog>
     <download_url>https://github.com/IGNF/assistant-route-qgis-plugin/releases/download/version_finale/IGN_assistant-route.zip</download_url>
   </pyqgis_plugin>
 
   
-  <pyqgis_plugin name="IGN_assistant-odonyme" version="1.4.2">
+  <pyqgis_plugin name="IGN assistant-odonyme" version="1.4.2">
     <description>Aide à la saisie des noms de voies.</description>
     <changelog>Sauvegarde de la position de la fenêtre</changelog>
     <download_url>https://github.com/IGNF/assistant-odonyme-qgis-plugin/releases/download/version_finale/IGN_assistant-odonyme.zip</download_url>
