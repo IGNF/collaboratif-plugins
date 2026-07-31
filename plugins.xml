@@ -38,7 +38,7 @@
     <description>Visualisation des z des entités</description>
     <changelog>Possibilité d'affichage uniquement sur la sélection \n Compatible QGIS3 et QGIS4.</changelog>
     <download_url>https://github.com/IGNF/vueZ-qgis-plugin/releases/download/version_finale/IGN_VueZ.zip</download_url>
-    <icon>https:icon_vuez</icon>
+    <!--<icon>https:icon_vuez</icon>-->
   </pyqgis_plugin>
 
   <pyqgis_plugin name="IGN altibonne" version="0.4.3">
