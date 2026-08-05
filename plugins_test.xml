@@ -31,7 +31,7 @@
     <download_url>https://github.com/IGNF/MultiViewManager/releases/download/version_finale/MultiViewManager.zip</download_url>
   </pyqgis_plugin>
 
-  <pyqgis_plugin name="IGN VueZ" version="0.3.2">
+  <pyqgis_plugin name="IGN VueZ" version="0.3.3">
     <description>Visualisation des z des entités</description>
     <changelog>Possibilité d'affichage uniquement sur la sélection \n Compatible QGIS3 et QGIS4.</changelog>
     <download_url>https://github.com/IGNF/vueZ-qgis-plugin/releases/download/version_finale/IGN_VueZ.zip</download_url>
