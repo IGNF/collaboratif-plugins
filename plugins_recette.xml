@@ -31,7 +31,7 @@
     <download_url>https://github.com/IGNF/boite_outils-qgis-plugin/releases/download/version_finale/IGN_boite_outils.zip</download_url>
   </pyqgis_plugin>
 
-  <pyqgis_plugin name="IGN objets_preferes" version="0.3.0">
+  <pyqgis_plugin name="IGN objets_preferes" version="0.4.0">
     <description>Gestion du type de l'entité à la création</description>
     <changelog></changelog>
     <download_url>https://github.com/IGNF/objets-preferes-qgis-plugin/releases/download/v0.2.0_tag/IGN_objets_preferes.zip</download_url>
