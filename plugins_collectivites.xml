@@ -126,7 +126,7 @@
   </pyqgis_plugin>
 
   <!--
-  <pyqgis_plugin name="IGN_objets_preferes" version="0.3.0">
+  <pyqgis_plugin name="IGN_objets_preferes" version="0.4.0">
     <description>Gestion du type de l'entité à la création</description>
     <changelog>Activation d'une couche et éventuellement passer en mode edition</changelog>
     <download_url>https://github.com/IGNF/objets-preferes-qgis-plugin/releases/download/version_finale/IGN_objets_preferes.zip</download_url>
