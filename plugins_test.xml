@@ -66,14 +66,14 @@
     <changelog>Sauvegarde de la position de la fenêtre \n Organisation des widgets par glissé déposé</changelog>
     <download_url>https://github.com/IGNF/jeux_attribut_generique_plugin_qgis/releases/download/version_finale/IGN_jeux_attributs_generique.zip</download_url>
   </pyqgis_plugin>
-
-   <!--
-
-  <pyqgis_plugin name="IGN_boite_outils" version="0.2.1">
+  
+  <pyqgis_plugin name="IGN Boite à outils" version="0.2.1">
     <description>Regroupement de différentes fonctionnalités</description>
     <changelog></changelog>
     <download_url>https://github.com/IGNF/boite_outils-qgis-plugin/releases/download/version_finale/IGN_boite_outils.zip</download_url>
   </pyqgis_plugin>
+  
+   <!--
 
   <pyqgis_plugin name="IGN_jeux_attributs" version="0.3.3">
     <description>jeux d'attributs générique qui permet la modification sémantique quelque soit le projet chargé.</description>
