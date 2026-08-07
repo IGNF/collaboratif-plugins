@@ -62,7 +62,7 @@
     <icon>https://raw.githubusercontent.com/IGNF/assistant-liste-qgis-plugin/main/icons/icon_principal.png</icon>
   </pyqgis_plugin>
 
-  <pyqgis_plugin name="IGN boite_outils" version="0.2.1">
+  <pyqgis_plugin name="IGN Boite à outils" version="0.2.1">
     <description>Regroupement de différentes fonctionnalités</description>
     <changelog></changelog>
     <download_url>https://github.com/IGNF/boite_outils-qgis-plugin/releases/download/version_finale/IGN_boite_outils.zip</download_url>
