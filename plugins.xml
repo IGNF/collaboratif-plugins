@@ -62,14 +62,14 @@
     <icon>https://raw.githubusercontent.com/IGNF/assistant-liste-qgis-plugin/main/icons/icon_principal.png</icon>
   </pyqgis_plugin>
 
-  <pyqgis_plugin name="IGN Boite à outils" version="0.2.1">
+  <pyqgis_plugin name="IGN boite_outils" version="0.2.1">
     <description>Regroupement de différentes fonctionnalités</description>
     <changelog></changelog>
     <download_url>https://github.com/IGNF/boite_outils-qgis-plugin/releases/download/version_finale/IGN_boite_outils.zip</download_url>
     <icon>https://raw.githubusercontent.com/IGNF/boite_outils-qgis-plugin/main/icons/icon_principal.png</icon>
   </pyqgis_plugin>
 
-  <pyqgis_plugin name="IGN Objets préférés" version="0.4.0">
+  <pyqgis_plugin name="IGN objets_preferess" version="0.4.0">
     <description>Gestion du type de l'entité à la création</description>
     <changelog>Compatible Qt6 uniquement</changelog>
     <download_url>https://github.com/IGNF/objets-preferes-qgis-plugin/releases/download/version_finale/IGN_objets_preferes.zip</download_url>
