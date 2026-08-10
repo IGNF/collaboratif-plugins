@@ -1,5 +1,5 @@
 {
-  "Tous les plugins IGN disponibles" : "plugins.xml" ,
+  "Tous les plugins IGN disponibles" : "all_plugins.xml" ,
   "Collectivités" : "plugins_collectivites.xml",
   "SDIS" : "plugins_sdis.xml",
   "TEST" : "plugins_test.xml"
