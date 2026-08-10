@@ -1,1 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plugins>
 
+  <!--
+  <pyqgis_plugin name="SDIS_PluginIGN_Installer" version="1.0">
+    <description>Installateur de plugins</description>
+    <changelog></changelog>
+    <download_url>https://github.com/IGNF/collaboratif-plugins/releases/download/version_finale_sdis/SDIS_PluginIGN_Installer.zip</download_url>
+  </pyqgis_plugin>
+
+  <pyqgis_plugin name="PluginsManager" version="1.8.0">
+    <description>Centralise et intègre les plugins IGN dans un menu et barres d'outils personnalisables pour un accès simplifié.</description>
+    <changelog>Changement de nom \n Ajout de la version dans la notification des mises à jour des plugins</changelog>
+    <download_url>https://github.com/IGNF/maitre-qgis-plugin/releases/download/version_finale/PluginsManager.zip</download_url>
+  </pyqgis_plugin>
+
+  
+  <pyqgis_plugin name="multi_select" version="2.0.0">
+    <description>Permet la sélection multi layers</description>
+    <changelog></changelog>
+    <download_url>https://raw.githubusercontent.com/IGNF/collaboratif-plugins/main/multi_select.zip</download_url>
+  </pyqgis_plugin>
+  -->
+  
+
+  <pyqgis_plugin name="IGN assistant-route" version="1.7.1">
+    <description>Aide à la modification d'attributs routiers.</description>
+    <changelog>possibilité de garder la largeur de chaussée sur les chemins et routes empierrées \n Compatible QGIS4</changelog>
+    <download_url>https://github.com/IGNF/assistant-route-qgis-plugin/releases/download/version_finale/IGN_assistant-route.zip</download_url>
+  </pyqgis_plugin>
+
+  
+  <pyqgis_plugin name="IGN assistant-odonyme" version="1.4.2">
+    <description>Aide à la saisie des noms de voies.</description>
+    <changelog>Sauvegarde de la position de la fenêtre</changelog>
+    <download_url>https://github.com/IGNF/assistant-odonyme-qgis-plugin/releases/download/version_finale/IGN_assistant-odonyme.zip</download_url>
+  </pyqgis_plugin>
+  
+  <pyqgis_plugin name="IGN assistant-complexe" version="1.3.2">
+    <description>Aide à la saisie des routes numérotées</description>
+    <changelog>Sauvegarde de la position de la fenêtre \n Prise en compte de complexes différents sur des tronçons différents.</changelog>
+    <download_url>https://github.com/IGNF/assistant-complexe-qgis-plugin/releases/download/version_finale/IGN_assistant-complexe.zip</download_url>
+  </pyqgis_plugin>
+  
+  <pyqgis_plugin name="IGN assistant-dfci" version="1.2.3">
+    <description>Aide à la modification des attributs DFCI</description>
+    <changelog>Ajout de l'attribut "Hors catégorie"</changelog>
+    <download_url>https://github.com/IGNF/assistant-dfci-qgis-plugin/releases/download/version_finale/IGN_assistant-dfci.zip</download_url>
+  </pyqgis_plugin>
+
+  <!--
+  <pyqgis_plugin name="IGN_assistant-hydro-national" version="1.2.2">
+    <description>Ce plugin est un assistant pour la saisie des attributs hydrographiques</description>
+    <changelog>Sauvegarde de la position de la fenêtre</changelog>
+    <download_url>https://github.com/IGNF/assistant-hydro-national-qgis-plugin/releases/download/version_finale/IGN_assistant-hydro-national.zip</download_url>
+  </pyqgis_plugin>
+
+  <pyqgis_plugin name="IGN_assistant-hydro-DDT65" version="1.2.0">
+    <description>Ce plugin est un assistant pour la saisie des attributs PE et BCAE</description>
+    <changelog></changelog>
+    <download_url>https://github.com/IGNF/assistant-hydro-DDT65-qgis-plugin/releases/download/version_finale/IGN_assistant-hydro-DDT65.zip</download_url>
+  </pyqgis_plugin>
+
+  <pyqgis_plugin name="IGN_jeux_attributs_generique" version="1.4.3">
+    <description>Formulaire d'attributs qui permet la modification sémantique quelque soit le projet chargé.</description>
+    <changelog>Sauvegarde de la position de la fenêtre \n Organisation des widgets par glissé déposé</changelog>
+    <download_url>https://github.com/IGNF/jeux_attribut_generique_plugin_qgis/releases/download/version_finale/IGN_jeux_attributs_generique.zip</download_url>
+  </pyqgis_plugin>
+
+  <pyqgis_plugin name="IGN_jeux_attributs" version="0.3.3">
+    <description>jeux d'attributs générique qui permet la modification sémantique quelque soit le projet chargé.</description>
+    <changelog>Sauvegarde de la position de la fenêtre \n Prise en compte des champs de type TextEdit \n Déplacement des boutons par glissé-déposé \n Ajout d'un menu contextuel</changelog>
+    <download_url>https://github.com/IGNF/jeux-attributs-qgis-plugin/releases/download/version_finale/IGN_jeux_attributs.zip</download_url>
+  </pyqgis_plugin>
+
+  
+  <pyqgis_plugin name="IGN_assistant-liste" version="0.3.1">
+    <description>Gestionnaire de listes</description>
+    <changelog>Sauvegarde de la position des fenêtres</changelog>
+    <download_url>https://github.com/IGNF/assistant-liste-qgis-plugin/releases/download/version_finale/IGN_assistant-liste.zip</download_url>
+  </pyqgis_plugin>
+
+  <pyqgis_plugin name="IGN_boite_outils" version="0.2.1">
+    <description>Regroupement de différentes fonctionnalités</description>
+    <changelog></changelog>
+    <download_url>https://github.com/IGNF/boite_outils-qgis-plugin/releases/download/version_finale/IGN_boite_outils.zip</download_url>
+  </pyqgis_plugin>
+
+  
+  <pyqgis_plugin name="IGN_altibonne" version="1.0.0">
+    <description>Visualisation d'un profil</description>
+    <changelog>Le profil est actif quel que soit le nombre de sélections. \n Sauvegarde de la position de la fenêtre \n Sauvergarde de l'état de la fenêtre \n Diverses ameliorations</changelog>
+    <download_url>https://github.com/IGNF/altibonne-qgis-plugin/releases/download/version_finale/IGN_altibonne.zip</download_url>
+  </pyqgis_plugin>
+  -->
+
+  <pyqgis_plugin name="MultiViewManager" version="1.4.10">
+    <description>Gestionnaire des vues</description>
+    <changelog>Changement de nom (Vues -> MultiViewManager) \n Ajout export des vues \n Compatible QGIS3 et QGIS4.</changelog>
+    <download_url>https://github.com/IGNF/MultiViewManager/releases/download/version_finale/MultiViewManager.zip</download_url>
+  </pyqgis_plugin>
+
+  <!--
+  <pyqgis_plugin name="IGN_VueZ" version="0.3.3">
+    <description>Visualisation des z des entités</description>
+    <changelog>Possibilité d'affichage uniquement sur la sélection \n Compatible QGIS3 et QGIS4.</changelog>
+    <download_url>https://github.com/IGNF/vueZ-qgis-plugin/releases/download/version_finale/IGN_VueZ.zip</download_url>
+  </pyqgis_plugin>
+  -->
+
+  
+  <pyqgis_plugin name="IGN DigitizingDirection" version="0.4.2">
+    <description>Affichage des sens de numérisation</description>
+    <changelog>Changement de nom \n Fonctionne sur ligne ou polygone \n Possibilité d'afficher le sens uniquement sur la sélection \n Compatible QGIS4 \n Doc accessible dans le menu IGN</changelog>
+    <download_url>https://github.com/IGNF/DigitizingDirection-qgis-plugin/releases/download/version_finale/IGN_DigitizingDirection.zip</download_url>
+  </pyqgis_plugin>
+  
+
+  <pyqgis_plugin name="IGN ShortestPath" version="1.4.0">
+    <description>Sélection de l'itinéraire le plus court entre 2 linéaires.</description>
+    <changelog>Changement de nom \n Fonctionne sur tout type de layer</changelog>
+    <download_url>https://github.com/IGNF/ShortestPath-qgis-plugin/releases/download/version_finale/IGN_ShortestPath.zip</download_url>
+  </pyqgis_plugin>
+
+  <!--
+  <pyqgis_plugin name="IGN_objets_preferes" version="0.4.0">
+    <description>Gestion du type de l'entité à la création</description>
+    <changelog>Activation d'une couche et éventuellement passer en mode edition</changelog>
+    <download_url>https://github.com/IGNF/objets-preferes-qgis-plugin/releases/download/version_finale/IGN_objets_preferes.zip</download_url>
+  </pyqgis_plugin>
+  
+  <pyqgis_plugin name="IGN_requetes" version="0.1">
+    <description>gestionnaire de requêtes sql</description>
+    <changelog></changelog>
+    <download_url>https://github.com/IGNF/requetes-qgis-plugin/releases/download/version_finale/IGN_requetes.zip</download_url>
+  </pyqgis_plugin>
+
+  -->
+  
+</plugins>
