@@ -120,7 +120,7 @@
   -->
 
   <!--
-  <pyqgis_plugin name="IGN requêtes" version="0.1">
+  <pyqgis_plugin name="IGN Gestionnaire de requêtes" version="0.1">
     <description>gestionnaire de requêtes sql</description>
   <changelog></changelog>
     <download_url>https://github.com/IGNF/requetes-qgis-plugin/releases/download/version_finale/IGN_requetes.zip</download_url>
