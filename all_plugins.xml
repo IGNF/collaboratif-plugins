@@ -1,12 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <plugins>
 
-  <pyqgis_plugin name="IGN Bidon" version="1.4.0">
-    <description>description bidon.</description>
-    <changelog>changelog bidon</changelog>
-    <download_url>url bidon</download_url>
-  </pyqgis_plugin>
-
   <pyqgis_plugin name="IGN ShortestPath" version="1.4.0">
     <description>Sélection de l'itinéraire le plus court entre 2 linéaires.</description>
     <changelog>Changement de nom \n Fonctionne sur tout type de layer</changelog>
