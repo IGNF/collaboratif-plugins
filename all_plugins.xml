@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <plugins>
 
-  <!--
+  
   <pyqgis_plugin name="IGN ShortestPath" version="1.4.1">
     <description>Sélection de l'itinéraire le plus court entre 2 linéaires.</description>
     <changelog>Changement de nom \n Fonctionne sur tout type de layer</changelog>
@@ -34,7 +34,7 @@
     <download_url>https://github.com/IGNF/altibonne-qgis-plugin/releases/download/version_finale/IGN_altibonne.zip</download_url>
     <icon>https://raw.githubusercontent.com/IGNF/altibonne-qgis-plugin/main/icons/icon_principal.png</icon>
   </pyqgis_plugin>
-  -->
+  
 
   <pyqgis_plugin name="IGN VueZ" version="0.3.3">
     <description>Visualisation des z des entités</description>
