@@ -116,9 +116,9 @@
   </pyqgis_plugin>
   
 
-  <pyqgis_plugin name="IGN ShortestPath" version="1.4.0">
+  <pyqgis_plugin name="IGN ShortestPath" version="1.4.1">
     <description>Sélection de l'itinéraire le plus court entre 2 linéaires.</description>
-    <changelog>Changement de nom \n Fonctionne sur tout type de layer</changelog>
+    <changelog>Compatible QT6 uniquement \n Changement de nom \n Fonctionne sur tout type de layer</changelog>
     <download_url>https://github.com/IGNF/ShortestPath-qgis-plugin/releases/download/version_finale/IGN_ShortestPath.zip</download_url>
   </pyqgis_plugin>
 
