@@ -67,10 +67,11 @@
     <download_url>https://github.com/IGNF/assistant-complexe-qgis-plugin/releases/download/version_finale/IGN_assistant-complexe.zip</download_url>
   </pyqgis_plugin>
 
-  <pyqgis_plugin name="IGN jeux_attributs_generique" version="1.4.3">
+  <pyqgis_plugin name="IGN Jeux d'attributs générique" version="1.4.4">
     <description>Formulaire d'attributs qui permet la modification sémantique quelque soit le projet chargé.</description>
-    <changelog>Sauvegarde de la position de la fenêtre \n Organisation des widgets par glissé déposé</changelog>
+    <changelog>Compatible Qt6 \n Sauvegarde de la position de la fenêtre \n Organisation des widgets par glissé déposé</changelog>
     <download_url>https://github.com/IGNF/jeux_attribut_generique_plugin_qgis/releases/download/version_finale/IGN_jeux_attributs_generique.zip</download_url>
+    <icon>https://raw.githubusercontent.com/IGNF/jeux_attribut_generique_plugin_qgis/main/icons/icon_principal.png</icon>
   </pyqgis_plugin>
 
   <pyqgis_plugin name="IGN jeux_attributs" version="0.3.3">
