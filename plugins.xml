@@ -83,9 +83,9 @@
     <icon>https://raw.githubusercontent.com/IGNF/jeux_attribut_generique_plugin_qgis/main/icons/icon_principal.png</icon>
   </pyqgis_plugin>
 
-  <pyqgis_plugin name="IGN jeux_attributs" version="0.3.3">
+  <pyqgis_plugin name="IGN Jeux d'attributs" version="0.3.4">
     <description>jeux d'attributs générique qui permet la modification sémantique quelque soit le projet chargé.</description>
-    <changelog>Sauvegarde de la position de la fenêtre \n Prise en compte des champs de type TextEdit \n Déplacement des boutons par glissé-déposé \n Ajout d'un menu contextuel</changelog>
+    <changelog>Compatible Qt6 \n Sauvegarde de la position de la fenêtre \n Prise en compte des champs de type TextEdit \n Déplacement des boutons par glissé-déposé \n Ajout d'un menu contextuel</changelog>
     <download_url>https://github.com/IGNF/jeux-attributs-qgis-plugin/releases/download/version_finale/IGN_jeux_attributs.zip</download_url>
     <icon>https://raw.githubusercontent.com/IGNF/jeux-attributs-qgis-plugin/main/icons/icon_principal.png</icon>
   </pyqgis_plugin>
