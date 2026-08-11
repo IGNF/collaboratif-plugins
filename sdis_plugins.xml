@@ -72,11 +72,13 @@
   </pyqgis_plugin>
   -->
 
+  <!--
   <pyqgis_plugin name="MultiViewManager" version="1.4.10">
     <description>Gestionnaire des vues</description>
     <changelog>Changement de nom (Vues -> MultiViewManager) \n Ajout export des vues \n Compatible QGIS3 et QGIS4.</changelog>
     <download_url>https://github.com/IGNF/MultiViewManager/releases/download/version_finale/MultiViewManager.zip</download_url>
   </pyqgis_plugin>
+  -->
 
   <!--
   <pyqgis_plugin name="IGN VueZ" version="0.3.3">
@@ -86,7 +88,7 @@
   </pyqgis_plugin>
   -->
 
-  
+  <!--
   <pyqgis_plugin name="IGN DigitizingDirection" version="0.4.2">
     <description>Affichage des sens de numérisation</description>
     <changelog>Changement de nom \n Fonctionne sur ligne ou polygone \n Possibilité d'afficher le sens uniquement sur la sélection \n Compatible QGIS4 \n Doc accessible dans le menu IGN</changelog>
@@ -99,6 +101,7 @@
     <changelog>Changement de nom \n Fonctionne sur tout type de layer</changelog>
     <download_url>https://github.com/IGNF/ShortestPath-qgis-plugin/releases/download/version_finale/IGN_ShortestPath.zip</download_url>
   </pyqgis_plugin>
+  -->
 
   <!--
   <pyqgis_plugin name="IGN Objets préférés" version="0.4.0">
