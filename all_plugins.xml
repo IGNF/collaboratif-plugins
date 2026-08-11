@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <plugins>
 
+  <!--
   <pyqgis_plugin name="IGN ShortestPath" version="1.4.0">
     <description>Sélection de l'itinéraire le plus court entre 2 linéaires.</description>
     <changelog>Changement de nom \n Fonctionne sur tout type de layer</changelog>
@@ -14,11 +15,17 @@
     <download_url>https://github.com/IGNF/MultiViewManager/releases/download/version_finale/MultiViewManager.zip</download_url>
   </pyqgis_plugin>
 
-  <pyqgis_plugin name="IGN VueZ" version="0.3.3">
-    <description>Visualisation des z des entités</description>
-    <changelog>Possibilité d'affichage uniquement sur la sélection \n Compatible QGIS3 et QGIS4.</changelog>
-    <download_url>https://github.com/IGNF/vueZ-qgis-plugin/releases/download/version_finale/IGN_VueZ.zip</download_url>
-    <icon>https://raw.githubusercontent.com/IGNF/vueZ-qgis-plugin/main/icons/icon_principal.png</icon>
+  <pyqgis_plugin name="IGN DigitizingDirection" version="0.4.2">
+    <description>Affichage des sens de numérisation</description>
+    <changelog>Changement de nom \n Fonctionne sur ligne ou polygone \n Possibilité d'afficher le sens uniquement sur la sélection \n Compatible QGIS4 \n Doc accessible dans le menu IGN</changelog>
+    <download_url>https://github.com/IGNF/DigitizingDirection-qgis-plugin/releases/download/version_finale/IGN_DigitizingDirection.zip</download_url>
+  </pyqgis_plugin>
+
+  <pyqgis_plugin name="IGN Objets préférés" version="0.4.0">
+    <description>Gestion du type de l'entité à la création</description>
+    <changelog>Compatible Qt6 uniquement</changelog>
+    <download_url>https://github.com/IGNF/objets-preferes-qgis-plugin/releases/download/version_finale/IGN_objets_preferes.zip</download_url>
+    <icon>https://raw.githubusercontent.com/IGNF/objets-preferes-qgis-plugin/main/icons/icon_principal.png</icon>
   </pyqgis_plugin>
 
   <pyqgis_plugin name="IGN Altibonne" version="1.0.0">
@@ -27,11 +34,13 @@
     <download_url>https://github.com/IGNF/altibonne-qgis-plugin/releases/download/version_finale/IGN_altibonne.zip</download_url>
     <icon>https://raw.githubusercontent.com/IGNF/altibonne-qgis-plugin/main/icons/icon_principal.png</icon>
   </pyqgis_plugin>
+  -->
 
-  <pyqgis_plugin name="IGN DigitizingDirection" version="0.4.2">
-    <description>Affichage des sens de numérisation</description>
-    <changelog>Changement de nom \n Fonctionne sur ligne ou polygone \n Possibilité d'afficher le sens uniquement sur la sélection \n Compatible QGIS4 \n Doc accessible dans le menu IGN</changelog>
-    <download_url>https://github.com/IGNF/DigitizingDirection-qgis-plugin/releases/download/version_finale/IGN_DigitizingDirection.zip</download_url>
+  <pyqgis_plugin name="IGN VueZ" version="0.3.3">
+    <description>Visualisation des z des entités</description>
+    <changelog>Possibilité d'affichage uniquement sur la sélection \n Compatible QGIS3 et QGIS4.</changelog>
+    <download_url>https://github.com/IGNF/vueZ-qgis-plugin/releases/download/version_finale/IGN_VueZ.zip</download_url>
+    <icon>https://raw.githubusercontent.com/IGNF/vueZ-qgis-plugin/main/icons/icon_principal.png</icon>
   </pyqgis_plugin>
 
 
@@ -47,13 +56,6 @@
     <changelog></changelog>
     <download_url>https://github.com/IGNF/boite_outils-qgis-plugin/releases/download/version_finale/IGN_boite_outils.zip</download_url>
     <icon>https://raw.githubusercontent.com/IGNF/boite_outils-qgis-plugin/main/icons/icon_principal.png</icon>
-  </pyqgis_plugin>
-
-  <pyqgis_plugin name="IGN Objets préférés" version="0.4.0">
-    <description>Gestion du type de l'entité à la création</description>
-    <changelog>Compatible Qt6 uniquement</changelog>
-    <download_url>https://github.com/IGNF/objets-preferes-qgis-plugin/releases/download/version_finale/IGN_objets_preferes.zip</download_url>
-    <icon>https://raw.githubusercontent.com/IGNF/objets-preferes-qgis-plugin/main/icons/icon_principal.png</icon>
   </pyqgis_plugin>
 
   <pyqgis_plugin name="IGN Jeux d'attributs générique" version="1.4.3">
