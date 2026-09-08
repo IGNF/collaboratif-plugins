@@ -1,9 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <plugins>
   <pyqgis_plugin name="IGN Assistant route"></pyqgis_plugin>
-    <!--
   <pyqgis_plugin name="IGN Assistant odonyme"></pyqgis_plugin>
   <pyqgis_plugin name="IGN Assistant complexe"></pyqgis_plugin>
-    -->
-    
 </plugins>
