@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <plugins>
-    <pyqgis_plugin name="IGN Assistant route" version="1.8.0">
+    <pyqgis_plugin name="IGN Assistant route">
     <!--
     <description>Aide à la modification d'attributs routiers.</description>
     <changelog>Compatible Qt6 \n possibilité de garder la largeur de chaussée sur les chemins et routes empierrées \n Compatible QGIS4</changelog>
