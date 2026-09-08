@@ -13,7 +13,7 @@
     <download_url>https://github.com/IGNF/ShortestPath-qgis-plugin/releases/download/version_finale/IGN_ShortestPath.zip</download_url>
     -->
   
-
+  <pyqgis_plugin name="MultiViewManager"></pyqgis_plugin>
   <pyqgis_plugin name="IGN Altibonne"></pyqgis_plugin>
   <pyqgis_plugin name="IGN DigitizingDirection"></pyqgis_plugin>
   <pyqgis_plugin name="IGN Assistant complexe"></pyqgis_plugin>
@@ -28,12 +28,14 @@
     <icon>https://raw.githubusercontent.com/IGNF/altibonne-qgis-plugin/main/icons/icon_principal.png</icon>
   </pyqgis_plugin>
   -->
-   
+
+  <!--
   <pyqgis_plugin name="MultiViewManager" version="1.4.10">
     <description>Gestionnaire des vues</description>
     <changelog>Changement de nom (Vues -> MultiViewManager) \n Ajout export des vues \n Compatible QGIS3 et QGIS4.</changelog>
     <download_url>https://github.com/IGNF/MultiViewManager/releases/download/version_finale/MultiViewManager.zip</download_url>
   </pyqgis_plugin>
+  -->
   
 <!--
   <pyqgis_plugin name="IGN DigitizingDirection" version="0.4.2">
