@@ -1,25 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <plugins>
-    <pyqgis_plugin name="IGN Assistant route">
+  <pyqgis_plugin name="IGN Assistant route"></pyqgis_plugin>
     <!--
-    <description>Aide à la modification d'attributs routiers.</description>
-    <changelog>Compatible Qt6 \n possibilité de garder la largeur de chaussée sur les chemins et routes empierrées \n Compatible QGIS4</changelog>
-    <download_url>https://github.com/IGNF/assistant-route-qgis-plugin/releases/download/version_finale/IGN_assistant-route.zip</download_url>
-    <icon>https://raw.githubusercontent.com/IGNF/assistant-route-qgis-plugin/main/icons/icon_principal.png</icon>
+  <pyqgis_plugin name="IGN Assistant odonyme"></pyqgis_plugin>
+  <pyqgis_plugin name="IGN Assistant complexe"></pyqgis_plugin>
     -->
-  </pyqgis_plugin>
-
-  <pyqgis_plugin name="IGN Assistant odonyme" version="1.4.2">
-    <description>test.</description>
-    <changelog>Sauvegarde de la position de la fenêtre</changelog>
-    <download_url>https://github.com/IGNF/assistant-odonyme-qgis-plugin/releases/download/version_finale/IGN_assistant-odonyme.zip</download_url>
-  </pyqgis_plugin>
-
-  <pyqgis_plugin name="IGN Assistant complexe" version="1.4.0">
-    <description>Aide à la saisie des routes numérotées</description>
-    <changelog>Compatible Qt6 \n Sauvegarde de la position de la fenêtre \n Prise en compte de complexes différents sur des tronçons différents.</changelog>
-    <download_url>https://github.com/IGNF/assistant-complexe-qgis-plugin/releases/download/version_finale/IGN_assistant-complexe.zip</download_url>
-    <icon>https://raw.githubusercontent.com/IGNF/assistant-complexe-qgis-plugin/main/icons/icon_principal.png</icon>
-  </pyqgis_plugin>
     
 </plugins>
