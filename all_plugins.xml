@@ -48,9 +48,9 @@
     <icon>https://raw.githubusercontent.com/IGNF/assistant-odonyme-qgis-plugin/main/icons/icon_principal.png</icon>
   </pyqgis_plugin>
 
-  <pyqgis_plugin name="IGN Assistant DFCI" version="1.2.3">
+  <pyqgis_plugin name="IGN Assistant DFCI" version="1.3.0">
     <description>Aide à la modification des attributs DFCI</description>
-    <changelog>Ajout de l'attribut "Hors catégorie"</changelog>
+    <changelog>Compatible Qt6</changelog>
     <download_url>https://github.com/IGNF/assistant-dfci-qgis-plugin/releases/download/version_finale/IGN_assistant-dfci.zip</download_url>
     <icon>https://raw.githubusercontent.com/IGNF/assistant-dfci-qgis-plugin/main/icons/icon_principal.png</icon>
   </pyqgis_plugin>
